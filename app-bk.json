@@ -25,7 +25,27 @@
     "navigationBarTextStyle": "#fff",
     "navigationBarTitleText": "Music",
     "backgroundColor": "#fbfcfd",
-    "navigationBarBackgroundColor": "#191970"
+    "navigationBarBackgroundColor": "#BB2C08"
+  },
+  "tabBar": {
+    "color": "#aaa",
+    "selectedColor": "#fff",
+    "borderStyle": "#333",
+    "backgroundColor": "#212121",
+    "list": [
+      {
+        "pagePath": "page/component/home/index",
+        "iconPath": "image/cm2_btm_icn_discovery.png",
+        "selectedIconPath": "image/cm2_btm_icn_discovery_prs.png",
+        "text": "发现音乐"
+      },
+      {
+        "pagePath": "page/component/me/index",
+        "iconPath": "image/cm2_btm_icn_music.png",
+        "selectedIconPath": "image/cm2_btm_icn_music_prs.png",
+        "text": "我的音乐"
+      }
+    ]
   },
   "networkTimeout": {
     "request": 10000,
