@@ -31,13 +31,6 @@
               <view>{{re.name}}<text wx:if="{{re.alia.length}}">（{{re.alia[0]}}）</text></view>
               <view class="relistdes">{{re.ar[0].name}}-{{re.al.name}}</view>
             </view>
-            <view class="flexact" wx-if="{{re.mv!=0}}">
-              <view catchtap="mv" data-mvid="{{re.mv}}" class="fa_list fa_mv">
-                <navigator url="../mv/index?id={{re.mv}}">
-                  <image src="../../../image/l0.png" mode="widthFix" />
-                </navigator>
-              </view>
-            </view>
           </view>
         </view>
       </navigator>
@@ -60,13 +53,7 @@
               <view>{{re.name}}<text wx:if="{{re.alia.length}}">（{{re.alia[0]}}）</text></view>
               <view class="relistdes">{{re.ar[0].name}}-{{re.al.name}}</view>
             </view>
-            <view class="flexact" wx-if="{{re.mv!=0}}">
-              <view catchtap="mv" data-mvid="{{re.mv}}" class="fa_list fa_mv">
-                <navigator url="../mv/index?id={{re.mv}}">
-                  <image src="../../../image/l0.png" mode="widthFix" />
-                </navigator>
-              </view>
-            </view>
+
           </view>
         </view>
       </navigator>

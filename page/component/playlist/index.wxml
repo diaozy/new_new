@@ -14,24 +14,15 @@
       </view>
       <view id="plh-cnt">
         <text id="music_h_name">{{list.playlist.name||" "}}</text>
-        <view data-userid="{{list.playlist.creator.userId}}" wx:if="{{list}}" bindtap="userplaylist">
-          <image id="user_ava" class="user_avator" src="{{list.playlist.creator.avatarUrl}}" />
+        <view data-userid="{{list.playlist.creator.userId}}" wx:if="{{list}}" >
           <text>{{list.playlist.creator.nickname||" "}} </text>
-          <image src="../../../image/cm2_list_detail_icn_arr@2x.png" style="width:16rpx;height:24rpx;" />
-        </view>
+         </view>
       </view>
     </view>
     <view id="plh_action">
       <view>
-        <image src="../../../image/cm2_list_detail_icn_fav_new@2x.png" wx:if="{{!list.playlist.subscribed&&user.profile.userId!=list.playlist.creator.userId}}" />
-        <image src="../../../image/cm2_list_detail_icn_faved@2x.png" wx:if="{{list.playlist.subscribed||user.profile.userId==list.playlist.creator.userId}}" />
-        <text>{{list.playlist.subscribedCount||'收藏'}}</text>
-      </view>
-      <view>
-        <navigator url="../recommend/index?id={{list.playlist.commentThreadId}}&from=playlist">
-          <image src="../../../image/cm2_list_detail_icn_cmt@2x.png" />
-          <text>{{list.playlist.commentCount||'评论'}}</text>
-        </navigator>
+        <image src="../../../image/cm2_list_detail_icn_share@2x.png" />
+        <text>{{list.playlist.shareCount||'分享'}}</text>
       </view>
       <view>
         <image src="../../../image/cm2_list_detail_icn_share@2x.png" />

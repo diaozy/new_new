@@ -74,7 +74,7 @@ Page({
           list: res.data,
           canplay: canplay,
           toplist: (options.from == 'stoplist' ? true : false),
-          cover: id2Url.id2Url('' + (res.data.playlist.coverImgId_str || res.data.playlist.coverImgId))
+          cover: res.data.playlist.coverImgUrl
         });
 
         wx.setNavigationBarTitle({

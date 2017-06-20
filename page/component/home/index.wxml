@@ -17,7 +17,7 @@
       正在为您生成个性化推荐...</view>
     <view wx:else>
       <view id="rec_nav">
-        <view>
+<!--        <view>
           <navigator url="../fm/index">
             <view class="recn_ico">
               <image src="../../../image/cm2_discover_icn_fm-ip6@2x.png"></image>
@@ -38,13 +38,12 @@
             </view>
             云音乐热歌榜
           </navigator>
-        </view>
+        </view>-->
       </view>
 
       <!--playlist-->
       <view class="st_title">
-        <image width="30" mode="widthFix" src="../../../image/cm2_discover_icn_recmd@2x.png" />English Books
-        <view class="rbtn"  bindtap="switchtab" data-t="1">更多></view>
+        <image width="30" mode="widthFix" src="../../../image/cm2_discover_icn_recmd@2x.png" />新概念英语教材
       </view>
       <view class='flex-boxlist'>
         <view class="tl_cnt" wx:for-items="{{rec.re[0]}}" wx:key="{{item.id}}">
@@ -59,22 +58,19 @@
         </view>
       </view>
 
-      <!--newsongs-->
+      <!--playlist2-->
       <view class="st_title">
-        <image width="30" mode="widthFix" src="../../../image/cm2_discover_icn_newest@2x.png" />最新音乐
-        <navigator class="rbtn" url="../new/index">更多></navigator>
+        <image width="30" mode="widthFix" src="../../../image/cm2_discover_icn_recmd@2x.png" />国际朗文英语 Side by Side
       </view>
       <view class='flex-boxlist'>
-        <view class="tl_cnt" wx:for-items="{{rec.re[1]}}" wx:for-index="idx" wx:if="{{idx<6}}" wx:for-item="re" wx:key="{{re.id}}">
-          <navigator url="../playing/index?id={{re.id}}&br={{re.song.privilege.maxbr}}">
+        <view class="tl_cnt" wx:for-items="{{rec.re[0]}}" wx:key="{{item.id}}">
+          <navigator url="../playlist/index?pid={{item.id}}&from=toplist">
             <view class="cover">
-              <image src="{{re.song.album.picUrl}}?param=200y200" class="music_cover" />
-              <text>{{re.playcount}}</text>
+              <image src="{{item.picUrl}}?param=200y200" class="music_cover" />
+              <view class="img_playcount">
+                <image src="../../../image/p0.png" />{{item.playCount}}</view>
             </view>
-            <view class="tl_info">
-              <view>{{re.name}}</view>
-              <view class="tli_des">{{re.song.artists[0].name}}</view>
-            </view>
+            <text class="name">{{item.name}}</text>
           </navigator>
         </view>
       </view>
