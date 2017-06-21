@@ -179,6 +179,9 @@ App({
       dataUrl: type == 1 ? m.url : m.mp3Url,
       title: m.name,
       success: function (res) {
+        console.info("aaa")
+        console.info(seek)
+        console.info("bbb")
         if (seek != undefined) {
           wx.seekBackgroundAudio({ position: seek })
         };

@@ -7,5 +7,6 @@
       <slider bindchange="museek" color="#d33a31" left-icon="cancel" value="{{percent}}"/>
     </progress>
     <text id="endtime" class="time">{{duration}}</text>
+        <text id="endtime" class="time">{{percent}}</text>
   </view>
 </template>

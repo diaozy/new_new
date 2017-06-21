@@ -158,15 +158,19 @@ Page({
   },
   museek: function (e) {
     //歌曲定位播放
+    console.info(e.detail.value)
+    console.info(this.data.percent)
     var nextime = e.detail.value
     var that = this
     nextime = app.globalData.curplay.dt * nextime / 100000;
+    console.info(nextime)
     app.globalData.currentPosition = nextime
     app.seekmusic(1, app.globalData.currentPosition, function () {
       that.setData({
         percent: e.detail.value
       })
     });
+    console.info(that.data.percent)
   },
   onShow: function () {
     var that = this;
@@ -222,7 +226,8 @@ Page({
       })
     };
     var id = wx.getStorageSync('user');
-    id = id.account.id;
+//    id = id.account.id;
+    id = 0;
     wx.request({
       url: bsurl + 'user/playlist',
       data: {
