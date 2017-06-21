@@ -247,7 +247,7 @@ Page({
             }
         })
         //个性推荐内容,歌单，新歌，mv，电台
-        async.map(['books', 'personalized/newsong'], function (item, callback) {
+        async.map(['books1', 'books2', 'books3', 'books4', 'books5'], function (item, callback) {
             wx.request({
                 url: bsurl + item,
                 data: { cookie: app.globalData.cookie },

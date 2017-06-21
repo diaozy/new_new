@@ -42,8 +42,8 @@
       </view>
 
       <!--playlist-->
-      <view class="st_title">
-        <image width="30" mode="widthFix" src="../../../image/cm2_discover_icn_recmd@2x.png" />新概念英语教材
+      <view class="st_title" wx:if="{{rec.re[0].length > 0 }}">
+        <image width="30" mode="widthFix" src="../../../image/cm2_discover_icn_recmd@2x.png" />{{rec.re[0][0].copywriter}}
       </view>
       <view class='flex-boxlist'>
         <view class="tl_cnt" wx:for-items="{{rec.re[0]}}" wx:key="{{item.id}}">
@@ -59,11 +59,62 @@
       </view>
 
       <!--playlist2-->
-      <view class="st_title">
-        <image width="30" mode="widthFix" src="../../../image/cm2_discover_icn_recmd@2x.png" />国际朗文英语 Side by Side
+      <view class="st_title" wx:if="{{rec.re[1].length > 0 }}">
+        <image width="30" mode="widthFix" src="../../../image/cm2_discover_icn_recmd@2x.png" />{{rec.re[1][0].copywriter}}
       </view>
       <view class='flex-boxlist'>
-        <view class="tl_cnt" wx:for-items="{{rec.re[0]}}" wx:key="{{item.id}}">
+        <view class="tl_cnt" wx:for-items="{{rec.re[1]}}" wx:key="{{item.id}}">
+          <navigator url="../playlist/index?pid={{item.id}}&from=toplist">
+            <view class="cover">
+              <image src="{{item.picUrl}}?param=200y200" class="music_cover" />
+              <view class="img_playcount">
+                <image src="../../../image/p0.png" />{{item.playCount}}</view>
+            </view>
+            <text class="name">{{item.name}}</text>
+          </navigator>
+        </view>
+      </view>
+
+      <!--playlist3-->
+      <view class="st_title" wx:if="{{rec.re[2].length > 0 }}">
+        <image width="30" mode="widthFix" src="../../../image/cm2_discover_icn_recmd@2x.png" />{{rec.re[2][0].copywriter}}
+      </view>
+      <view class='flex-boxlist'>
+        <view class="tl_cnt" wx:for-items="{{rec.re[2]}}" wx:key="{{item.id}}">
+          <navigator url="../playlist/index?pid={{item.id}}&from=toplist">
+            <view class="cover">
+              <image src="{{item.picUrl}}?param=200y200" class="music_cover" />
+              <view class="img_playcount">
+                <image src="../../../image/p0.png" />{{item.playCount}}</view>
+            </view>
+            <text class="name">{{item.name}}</text>
+          </navigator>
+        </view>
+      </view>
+
+      <!--playlist4-->
+      <view class="st_title" wx:if="{{rec.re[3].length > 0 }}">
+        <image width="30" mode="widthFix" src="../../../image/cm2_discover_icn_recmd@2x.png" />{{rec.re[3][0].copywriter}}
+      </view>
+      <view class='flex-boxlist'>
+        <view class="tl_cnt" wx:for-items="{{rec.re[3]}}" wx:key="{{item.id}}">
+          <navigator url="../playlist/index?pid={{item.id}}&from=toplist">
+            <view class="cover">
+              <image src="{{item.picUrl}}?param=200y200" class="music_cover" />
+              <view class="img_playcount">
+                <image src="../../../image/p0.png" />{{item.playCount}}</view>
+            </view>
+            <text class="name">{{item.name}}</text>
+          </navigator>
+        </view>
+      </view>
+
+      <!--playlist5-->
+      <view class="st_title" wx:if="{{rec.re[4].length > 0 }}">
+        <image width="30" mode="widthFix" src="../../../image/cm2_discover_icn_recmd@2x.png" />{{rec.re[4][0].copywriter}}
+      </view>
+      <view class='flex-boxlist'>
+        <view class="tl_cnt" wx:for-items="{{rec.re[4]}}" wx:key="{{item.id}}">
           <navigator url="../playlist/index?pid={{item.id}}&from=toplist">
             <view class="cover">
               <image src="{{item.picUrl}}?param=200y200" class="music_cover" />
