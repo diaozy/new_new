@@ -79,12 +79,6 @@ Page({
             playing: app.globalData.playing,
             playtype: app.globalData.playtype,
         })
-        if (!wx.getStorageSync('user')) {
-            wx.redirectTo({
-                url: '../login/index'
-            });
-            return;
-        }
         !this.data.rec.loading && this.init();
     },
     switchtab: function (e) {
