@@ -179,9 +179,6 @@ App({
       dataUrl: type == 1 ? m.url : m.mp3Url,
       title: m.name,
       success: function (res) {
-        console.info("aaa")
-        console.info(seek)
-        console.info("bbb")
         if (seek != undefined) {
           wx.seekBackgroundAudio({ position: seek })
         };
@@ -203,6 +200,7 @@ App({
         }
       }
     })
+    that.sleep(500)
   },
   geturl: function (suc, err, cb) {
     var that = this;
@@ -256,6 +254,15 @@ App({
   },
   onShow: function () {
     this.globalData.hide = false
+  },
+  sleep: function (numberMillis) {
+    var now = new Date();
+    var exitTime = now.getTime() + numberMillis;
+    while (true) {
+      now = new Date();
+      if (now.getTime() > exitTime)
+        return;
+    }
   },
   onHide: function () {
     this.globalData.hide = true;

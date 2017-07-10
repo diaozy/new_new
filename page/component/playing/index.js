@@ -156,6 +156,17 @@ Page({
       curpl:[]
     })
   },
+
+  sleep: function (numberMillis) {
+    var now = new Date();
+    var exitTime = now.getTime() + numberMillis;
+    while (true) {
+      now = new Date();
+      if (now.getTime() > exitTime)
+        return;
+    }
+  },
+
   museek: function (e) {
     //歌曲定位播放
     console.info(e.detail.value)
@@ -170,7 +181,8 @@ Page({
         percent: e.detail.value
       })
     });
-    console.info(that.data.percent)
+    console.info(that.data.percent+"sleep");
+    this.sleep ( 0 );
   },
   onShow: function () {
     var that = this;
@@ -293,4 +305,7 @@ Page({
   playingtoggle: function (event) {
     common.toggleplay(this, app, function () { })
   }
+
+
 })
+
