@@ -200,7 +200,7 @@ App({
         }
       }
     })
-    that.sleep(500)
+    that.sleep(1000)
   },
   geturl: function (suc, err, cb) {
     var that = this;
