@@ -157,32 +157,18 @@ Page({
     })
   },
 
-  sleep: function (numberMillis) {
-    var now = new Date();
-    var exitTime = now.getTime() + numberMillis;
-    while (true) {
-      now = new Date();
-      if (now.getTime() > exitTime)
-        return;
-    }
-  },
-
   museek: function (e) {
     //歌曲定位播放
-    console.info(e.detail.value)
-    console.info(this.data.percent)
     var nextime = e.detail.value
     var that = this
     nextime = app.globalData.curplay.dt * nextime / 100000;
-    console.info(nextime)
     app.globalData.currentPosition = nextime
     app.seekmusic(1, app.globalData.currentPosition, function () {
       that.setData({
         percent: e.detail.value
       })
     });
-    console.info(that.data.percent+"sleep");
-    this.sleep ( 0 );
+
   },
   onShow: function () {
     var that = this;
