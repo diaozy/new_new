@@ -107,6 +107,7 @@ function playAlrc(that, app) {
   wx.getBackgroundAudioPlayerState({
     complete: function (res) {
       var time = 0, lrcindex = that.data.lrcindex, playing = false, playtime = 0, downloadPercent = 0;
+
       if (res.status != 2) {
         time = res.currentPosition / res.duration * 100;
         playtime = res.currentPosition;
@@ -124,13 +125,15 @@ function playAlrc(that, app) {
         playing = true;
       }
       app.globalData.play = playing;
+
       that.setData({
         playtime: formatduration(playtime * 1000),
         percent: time,
         playing: playing,
         lrcindex: lrcindex,
-        downloadPercent: downloadPercent
-      })
+        downloadPercent: downloadPercent,
+        duration: formatduration(res.duration * 1000)
+        })
     }
   });
 };
