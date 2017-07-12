@@ -226,19 +226,19 @@ Page({
     var id = wx.getStorageSync('user');
 //    id = id.account.id;
     id = 0;
-    // wx.request({
-    //   url: bsurl + 'user/playlist',
-    //   data: {
-    //     uid: id,
-    //     offset: 0,
-    //     limit: 1000
-    //   },
-    //   success: function (res) {
-    //     that.setData({
-    //       playlist: res.data.playlist.filter(function (item) { return item.userId == id })
-    //     });
-    //   }
-    // });
+    wx.request({
+      url: bsurl + 'user/playlist',
+      data: {
+        uid: id,
+        offset: 0,
+        limit: 1000
+      },
+      success: function (res) {
+        that.setData({
+          playlist: res.data.playlist.filter(function (item) { return item.userId == id })
+        });
+      }
+    });
   },
   trackstpl: function (e) {
     var pid = e.currentTarget.dataset.pid;
