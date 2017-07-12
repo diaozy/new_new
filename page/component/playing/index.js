@@ -32,6 +32,7 @@ Page({
     return {
       title: this.data.share.title,
       desc: this.data.share.des,
+/*      path: 'page/component/playing/index?share=1&st=playing&id=' + this.data.share.id*/
       path: 'page/component/home/index?share=1&st=playing&id=' + this.data.share.id + '&br=' + this.data.share.br
     }
   },

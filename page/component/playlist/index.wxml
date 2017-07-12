@@ -20,14 +20,14 @@
       </view>
     </view>
     <view id="plh_action">
-      <view>
+<!--      <view>
         <image src="../../../image/cm2_list_detail_icn_share@2x.png" />
         <text>{{list.playlist.shareCount||'分享'}}</text>
       </view>
       <view>
         <image src="../../../image/cm2_list_detail_icn_share@2x.png" />
         <text>{{list.playlist.shareCount||'分享'}}</text>
-      </view>
+      </view>-->
     </view>
   </view>
   <view class="plist-detail page_pp">
