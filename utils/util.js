@@ -125,6 +125,8 @@ function playAlrc(that, app) {
         playing = true;
       }
       app.globalData.play = playing;
+      app.globalData.curplay.dt=res.duration*1000;//fix diao
+      app.globalData.curplay.duration = res.duration * 1000;//fix diao
 
       that.setData({
         playtime: formatduration(playtime * 1000),
