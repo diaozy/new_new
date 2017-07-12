@@ -194,7 +194,7 @@ App({
       },
       fail: function () {
         if (type != 2) {
-          that.nextplay(1)
+          //that.nextplay(1)
         } else {
           that.nextfm();
         }
