@@ -168,6 +168,7 @@ App({
     this.globalData.playtype = type;
     if (cb || this.globalData.playtype == 3) {
       this.playing(type, cb, seek);
+      // wx.seekBackgroundAudio({ position: seek })
     } else {
       this.geturl(function () { that.playing(type, cb, seek); })
     }
@@ -200,7 +201,7 @@ App({
         }
       }
     })
-    this.sleep(500)
+  //  this.sleep(500)
   },
   geturl: function (suc, err, cb) {
     var that = this;

@@ -170,8 +170,20 @@ Page({
         percent: e.detail.value
       })
     });
-
   },
+
+  museek1: function (e) {
+    //歌曲定位播放
+    var nextime = e.detail.value
+    var that = this
+    nextime = app.globalData.curplay.dt * nextime / 100000;
+    app.globalData.currentPosition = nextime
+    wx.seekBackgroundAudio({ position: nextime })
+          this.setData({
+        percent: e.detail.value
+      })
+  },
+
   onShow: function () {
     var that = this;
     app.globalData.playtype = 1;
@@ -292,6 +304,21 @@ Page({
   },
   playingtoggle: function (event) {
     common.toggleplay(this, app, function () { })
+  },
+
+  next10: function (e) {
+    var next = e.currentTarget.dataset.other;
+    wx.getBackgroundAudioPlayerState({
+      complete: function (res) {
+        var time = 0;
+        if (res.status != 2) {
+          time = res.currentPosition;
+          time = parseInt(time) + parseInt(next);
+          wx.seekBackgroundAudio({ position: time })
+        }
+      }
+    });
+
   }
 
 
