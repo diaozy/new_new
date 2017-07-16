@@ -14,7 +14,14 @@ Page({
     playtype: 1,
     loading: true,
     toplist: false,
+    title:'',
     user: wx.getStorageSync('user') || {}
+  },
+  onShareAppMessage: function () {
+    return {
+      title: this.data.title,
+      path: '../playlist/index?pid=' + options.pid +'from=toplist'
+    }
   },
   toggleplay: function () {
     common.toggleplay(this, app);
@@ -74,7 +81,8 @@ Page({
           list: res.data,
           canplay: canplay,
           toplist: (options.from == 'stoplist' ? true : false),
-          cover: res.data.playlist.coverImgUrl
+          cover: res.data.playlist.coverImgUrl,
+          title: res.data.playlist.name
         });
 
         wx.setNavigationBarTitle({

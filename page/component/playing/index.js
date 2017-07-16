@@ -61,11 +61,11 @@ Page({
         });
         wx.setNavigationBarTitle({ title: app.globalData.curplay.name });
         app.seekmusic(1);
-        common.loadrec(app.globalData.cookie, 0, 0, that.data.music.id, function (res) {
-          that.setData({
-            commentscount: res.total
-          })
-        })
+        // common.loadrec(app.globalData.cookie, 0, 0, that.data.music.id, function (res) {
+        //   that.setData({
+        //     commentscount: res.total
+        //   })
+        // })
       }
     })
 
@@ -191,11 +191,11 @@ Page({
   },
   music_next: function (r) {
     var that = this
-    common.loadrec(app.globalData.cookie, 0, 0, r.music.id, function (res) {
-      that.setData({
-        commentscount: res.total
-      })
-    })
+    // common.loadrec(app.globalData.cookie, 0, 0, r.music.id, function (res) {
+    //   that.setData({
+    //     commentscount: res.total
+    //   })
+    // })
   },
   onLoad: function (options) {
     var that = this;
@@ -219,11 +219,11 @@ Page({
         },
       });
       wx.setNavigationBarTitle({ title: app.globalData.curplay.name });
-      common.loadrec(app.globalData.cookie, 0, 0, that.data.music.id, function (res) {
-        that.setData({
-          commentscount: res.total
-        })
-      })
+      // common.loadrec(app.globalData.cookie, 0, 0, that.data.music.id, function (res) {
+      //   that.setData({
+      //     commentscount: res.total
+      //   })
+      // })
     };
     var id = wx.getStorageSync('user');
 //    id = id.account.id;

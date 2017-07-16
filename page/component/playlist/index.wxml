@@ -19,15 +19,11 @@
          </view>
       </view>
     </view>
-    <view id="plh_action">
-<!--      <view>
-        <image src="../../../image/cm2_list_detail_icn_share@2x.png" />
-        <text>{{list.playlist.shareCount||'分享'}}</text>
-      </view>
+    <view  id="plh_action" >
       <view>
         <image src="../../../image/cm2_list_detail_icn_share@2x.png" />
-        <text>{{list.playlist.shareCount||'分享'}}</text>
-      </view>-->
+        <text>{{list.playlist.shareCount||'分享本书\r\n点击右上'}}</text>
+      </view>
     </view>
   </view>
   <view class="plist-detail page_pp">

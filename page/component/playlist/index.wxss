@@ -66,6 +66,7 @@
 #plh_action {
 	display: flex;
 	position: relative;
+  margin-left: 40%;
 	z-index: 3;
 	clear: both;
 	width: 100%;

@@ -129,7 +129,7 @@
       <!--end -->
     </view>
   </view>
-
+<text class="st_title">\n\r提示：若果在使用中遇到任何问题，欢迎到公众号《Susan英语学堂》留言反馈！</text>
   <!--歌单 -->
   <view class="tab_cnt" hidden="{{tabidx!=1}}">
     <view class='listheader' id="plc_header">{{catelist.checked.name}}

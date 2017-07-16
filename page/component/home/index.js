@@ -37,6 +37,11 @@ Page({
         },
         tabidx: 0
     },
+    onShareAppMessage: function () {
+      return {
+        path: '../home/index'
+      }
+    },
     toggleplay: function () {
         common.toggleplay(this, app);
     },
