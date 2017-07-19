@@ -20,10 +20,12 @@
       </view>
     </view>
     <view  id="plh_action" >
-      <view>
-        <image src="../../../image/cm2_list_detail_icn_share@2x.png" />
-        <text>{{list.playlist.shareCount||'分享本书\r\n点击右上'}}</text>
-      </view>
+       <view> 
+        <button  open-type="share" size = "mini" plain = "true">
+        <!-- <image src="../../../image/cm2_list_detail_icn_share@2x.png" /> -->
+        分享
+        </button>
+       </view> 
     </view>
   </view>
   <view class="plist-detail page_pp">

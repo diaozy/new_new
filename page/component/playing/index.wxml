@@ -17,6 +17,7 @@
   <view id="playing-actwrap">
     <view id="playing-info" wx:if="{{!showlrc}}">
     </view>
+
        <template is="playingpercent" data="{{playtime:playtime,percent:percent,duration:duration,downloadPercent:downloadPercent}}" />   
  
     <view id="playingaction">
