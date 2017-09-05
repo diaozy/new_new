@@ -33,5 +33,24 @@
     "uploadFile": 10000,
     "downloadFile": 10000
   },
+    "tabBar": {
+      "color": "#000000",
+      "selectedColor": "#bb2c08",
+      "borderStyle": "white",
+      "list": [
+        {
+          "pagePath": "page/component/home/index",
+          "text": "听力助手",
+          "iconPath": "image/cm2_btm_icn_discovery.png",
+          "selectedIconPath": "image/cm2_list_icn_rdi_new@2x.png"
+        },
+        {
+          "pagePath": "page/component/aaa/index",
+          "text": "赞",
+          "iconPath": "image/cm2_discover_icn_3@2x.png",
+          "selectedIconPath": "image/cm2_play_icn_yizan@2x.png"
+        }
+      ]
+    },
   "debug": true
 }

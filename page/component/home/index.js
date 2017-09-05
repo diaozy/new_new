@@ -42,6 +42,9 @@ Page({
         path: 'page/component/home/index'
       }
     },
+    swipclick: function (e) {//点击图片触发事件
+      console.log("click");
+    },
     toggleplay: function () {
         common.toggleplay(this, app);
     },

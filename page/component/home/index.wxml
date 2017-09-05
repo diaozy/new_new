@@ -9,7 +9,7 @@
   <view class="tab_cnt" hidden="{{tabidx!=0}}">
     <swiper indicator-dots="true" autoplay="true" circular="true">
       <swiper-item wx:for-items="{{banner}}" wx:key="{{item.targetId}}">
-        <image src="{{item.pic}}" class="slide-image" width="750" height="290" />
+        <image src="{{item.pic}}" class="slide-image" width="750" height="290" bindtap="swipclick" />
       </swiper-item>
     </swiper>
     <view wx:if="{{!rec.loading}}" id="album_loading">
