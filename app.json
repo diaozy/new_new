@@ -1,6 +1,7 @@
 {
   "pages": [
     "page/component/home/index",
+    "page/component/zan/index",
     "page/component/user/index",
     "page/component/playlist/index",
     "page/component/mv/index",
@@ -45,7 +46,7 @@
           "selectedIconPath": "image/cm2_list_icn_rdi_new@2x.png"
         },
         {
-          "pagePath": "page/component/aaa/index",
+          "pagePath": "page/component/zan/index",
           "text": "赞",
           "iconPath": "image/cm2_discover_icn_3@2x.png",
           "selectedIconPath": "image/cm2_play_icn_yizan@2x.png"
