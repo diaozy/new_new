@@ -1,7 +1,0 @@
-<view>  
-    <view wx:for="{{imgalist}}" wx:for-item="image" >  
-        <image src="{{image}}" data-src="{{image}}" bindtap="previewImage"></image>  
-    </view>  
-            <image src="http://img3.imgtn.bdimg.com/it/u=592142882,2283064789&fm=27&gp=0.jpg" data-src="http://img3.imgtn.bdimg.com/it/u=592142882,2283064789&fm=27&gp=0.jpg" bindtap="previewImage"></image>  
-</view>
-123

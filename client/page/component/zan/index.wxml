@@ -1,0 +1,42 @@
+<import src="../../../utils/pl.wxml" />
+<import src="../../../utils/image.wxml" />
+<view>
+  <view class="menu">
+    <view class="mn_list">
+    <view class="mn_ico">
+    <template is="image" data="{{src:'../../../image/cm2_list_icn_dld_new@2x.png',width:60}}"/></view>
+      <view class="cmain">我的下载</view>
+      <view class="rdes">
+        <view class="arrow"></view>
+      </view>
+    </view>
+    <navigator url="../record/index?uid={{uid}}" class="mn_list">
+      <view class="mn_ico">
+      <template is="image" data="{{src:'../../../image/cm2_list_icn_recent_new@2x.png',width:60}}"/></view>
+      <view class="cmain">最近播放</view>
+      <view class="rdes">
+        <view class="arrow"></view>
+      </view>
+    </navigator>
+    <navigator url="../cloud/index" class="mn_list">
+      <view class="mn_ico">
+      <template is="image" data="{{src:'../../../image/cm2_lay_icn_cloud@2x.png',width:60}}"/></view>
+      <view class="cmain">我的云盘</view>
+      <view class="rdes">
+        <view class="arrow"></view>
+      </view>
+    </navigator>
+    <view class="mn_list">
+      <view class="mn_ico">
+      <template is="image" data="{{src:'../../../image/cm4_my_icn_fav@2x.png',width:60}}"/></view>
+      <view class="cmain">支持我们！</view>
+      <view class="rdes">
+        <view class="arrow"></view>
+      </view>
+    </view>
+  </view>
+<text class="st_title">我们坚持提供免费的听力服务，方便大家随时随地听英语，为中国人学好英语助力。但是高昂的服务器和宽带费用超出了我们的预期，如果宁觉得这个小程序，对您有帮助，希望能帮助和支持我们！</text>
+
+
+
+</view>
