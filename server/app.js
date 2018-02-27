@@ -21,8 +21,8 @@ var book403 = require('./data4.js').book403;
 var book404 = require('./data4.js').book404;
 var book405 = require('./data4.js').book405;
 var book406 = require('./data4.js').book406;
-var book405 = require('./data4.js').book407;
-var book406 = require('./data4.js').book408;
+var book407 = require('./data4.js').book407;
+var book408 = require('./data4.js').book408;
 
 var book501 = require('./data5.js').book501;
 var book502 = require('./data5.js').book502;
