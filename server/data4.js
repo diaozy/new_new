@@ -76,9 +76,5155 @@ const books2 = {
 	            "highQuality":false,
 	            "alg":"featured"
 	        },
-
+	        {
+	            "id":"book407",
+	            "type":0,
+	            "name":"Side by Side 国际朗文英语第4册",
+	            "copywriter":"国际朗文英语Side by Side",
+	            "picUrl":"http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+	            "canDislike":false,
+	            "playCount":999,
+	            "trackCount":99,
+	            "highQuality":false,
+	            "alg":"featured"
+	        },
+	        {
+	            "id":"book408",
+	            "type":0,
+	            "name":"Side by Side 国际朗文英语练习第4册",
+	            "copywriter":"国际朗文英语Side by Side",
+	            "picUrl":"http://susanenglish-1254112734.file.myqcloud.com/images/sbs4e.jpg",
+	            "canDislike":false,
+	            "playCount":999,
+	            "trackCount":99,
+	            "highQuality":false,
+	            "alg":"featured"
+	        },	        
 	        ]
 }
+
+
+const book407 =
+{
+		"playlist": {
+		    "subscribers": [],
+		    "subscribed": false,
+		    "creator": {
+		    },
+		    "tracks": [
+		        {
+		            "name": "A001Introduction .MP3",
+		            "id": 407001,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P001_Chapter 01_Vocabulary Preview.mp3",
+		            "id": 407002,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P002_Chapter 01_1Model Conversation.mp3",
+		            "id": 407003,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P002_Chapter 01_2Exercises.mp3",
+		            "id": 407004,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P003_Chapter 01_1Model Conversations.mp3",
+		            "id": 407005,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P003_Chapter 01_2Exercises.mp3",
+		            "id": 407006,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P004_Chapter 01_1Model Conversations.mp3",
+		            "id": 407007,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P004_Chapter 01_2Exercises.mp3",
+		            "id": 407008,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P005_Chapter 01_1Model Conversations.mp3",
+		            "id": 407009,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P005_Chapter 01_2Exercises.mp3",
+		            "id": 407010,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P006_Chapter 01_1Reading.mp3",
+		            "id": 407011,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P006_Chapter 01_2Listening.mp3",
+		            "id": 407012,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P007_Chapter 01_1Model Conversation.mp3",
+		            "id": 407013,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P007_Chapter 01_2Exercises.mp3",
+		            "id": 407014,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P008_Chapter 01_1Model Conversation.mp3",
+		            "id": 407015,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P008_Chapter 01_2Exercises.mp3",
+		            "id": 407016,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P009_Chapter 01_How to Say it!.mp3",
+		            "id": 407017,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P010_Chapter 01_1Model Conversation.mp3",
+		            "id": 407018,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P010_Chapter 01_2Exercises.mp3",
+		            "id": 407019,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P011_Chapter 01_1Model Conversation.mp3",
+		            "id": 407020,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P011_Chapter 01_2Exercises.mp3",
+		            "id": 407021,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P012_Chapter 01_1Model Conversation.mp3",
+		            "id": 407022,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P012_Chapter 01_2Exercises.mp3",
+		            "id": 407023,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P013_Chapter 01_Reading.mp3",
+		            "id": 407024,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P014_Chapter 01_Pronunciation.mp3",
+		            "id": 407025,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P015_Chapter 02_Vocabulary Preview.mp3",
+		            "id": 407026,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P016_Chapter 02_1Model Conversation.mp3",
+		            "id": 407027,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P016_Chapter 02_2Exercises.mp3",
+		            "id": 407028,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P017_Chapter 02_1Model Conversation.mp3",
+		            "id": 407029,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P017_Chapter 02_2Exercises.mp3",
+		            "id": 407030,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P018_Chapter 02_Reading.mp3",
+		            "id": 407031,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P019_Chapter 02_Listening.mp3",
+		            "id": 407032,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P020_Chapter 02_1Model Conversation.mp3",
+		            "id": 407033,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P020_Chapter 02_2Exercises.mp3",
+		            "id": 407034,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P021_Chapter 02_Reading.mp3",
+		            "id": 407035,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P022_Chapter 02_1Model Conversation.mp3",
+		            "id": 407036,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P022_Chapter 02_2Exercises.mp3",
+		            "id": 407037,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P023_Chapter 02_1Model Conversation.mp3",
+		            "id": 407038,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P023_Chapter 02_2Exercises.mp3",
+		            "id": 407039,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P024_Chapter 02_Model Conversations.mp3",
+		            "id": 407040,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P025_Chapter 02_Exercises.mp3",
+		            "id": 407041,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P026_Chapter 02_Model Conversation.mp3",
+		            "id": 407042,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P027_Chapter 02_1Exercises.mp3",
+		            "id": 407043,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P027_Chapter 02_2How to Say it!.mp3",
+		            "id": 407044,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P028_Chapter 02_Reading.mp3",
+		            "id": 407045,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P030_Chapter 02_Pronunciation.mp3",
+		            "id": 407046,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P031_Chapter 03_Vocabulary Preview.mp3",
+		            "id": 407047,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P032_Chapter 03_1Model Conversations.mp3",
+		            "id": 407048,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P032_Chapter 03_2Exercises.mp3",
+		            "id": 407049,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P034_Chapter 03_1Model Conversations.mp3",
+		            "id": 407050,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P034_Chapter 03_2Exercises.mp3",
+		            "id": 407051,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P036_Chapter 03_1Model Conversations.mp3",
+		            "id": 407052,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P036_Chapter 03_2Exercises.mp3",
+		            "id": 407053,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P037_Chapter 03_How to Say it!.mp3",
+		            "id": 407054,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P038_Chapter 03_Reading.mp3",
+		            "id": 407055,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P039_Chapter 03_Reading.mp3",
+		            "id": 407056,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P040_Chapter 03_Model Conversation.mp3",
+		            "id": 407057,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P041_Chapter 03_Exercises.mp3",
+		            "id": 407058,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P042_Chapter 03_1Reading.mp3",
+		            "id": 407059,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P042_Chapter 03_2Listening.mp3",
+		            "id": 407060,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P044_Chapter 03_Reading.mp3",
+		            "id": 407061,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P046_Chapter 03_Pronunciation.mp3",
+		            "id": 407062,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P047_Side by Side Gazette 01_Feature Article.mp3",
+		            "id": 407063,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P048_Side by Side Gazette 01_Around the World.mp3",
+		            "id": 407064,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P049_Side by Side Gazette 01_1Interview.mp3",
+		            "id": 407065,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P049_Side by Side Gazette 01_2Fun With Idioms.mp3",
+		            "id": 407066,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P050_Side by Side Gazette 01_1We\'ve Got Mail!.mp3",
+		            "id": 407067,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P050_Side by Side Gazette 01_2Global Exchange.mp3",
+		            "id": 407068,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P050_Side by Side Gazette 01_3Listening.mp3",
+		            "id": 407069,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P051_Chapter 04_Vocabulary Preview.mp3",
+		            "id": 407070,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P052_Chapter 04_1Model Conversation.mp3",
+		            "id": 407071,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P052_Chapter 04_2Exercises.mp3",
+		            "id": 407072,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P053_Chapter 04_1Model Conversation.mp3",
+		            "id": 407073,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P053_Chapter 04_2Exercises.mp3",
+		            "id": 407074,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P054_Chapter 04_1Model Conversations.mp3",
+		            "id": 407075,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P054_Chapter 04_2Exercises.mp3",
+		            "id": 407076,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P055_Chapter 04_How to Say it!.mp3",
+		            "id": 407077,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P056_Chapter 04_Reading.mp3",
+		            "id": 407078,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P057_Chapter 04_Reading.mp3",
+		            "id": 407079,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P058_Chapter 04_Model Conversations.mp3",
+		            "id": 407080,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P059_Chapter 04_Exercises.mp3",
+		            "id": 407081,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P060_Chapter 04_Reading.mp3",
+		            "id": 407082,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P061_Chapter 04_Listening.mp3",
+		            "id": 407083,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P062_Chapter 04_Pronunciation.mp3",
+		            "id": 407084,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P065_Chapter 05_Vocabulary Preview.mp3",
+		            "id": 407085,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P066_Chapter 05_1Model Conversation.mp3",
+		            "id": 407086,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P066_Chapter 05_2Exercises.mp3",
+		            "id": 407087,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P067_Chapter 05_1Model Conversation.mp3",
+		            "id": 407088,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P067_Chapter 05_2Exercises.mp3",
+		            "id": 407089,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P068_Chapter 05_1Model Conversations.mp3",
+		            "id": 407090,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P068_Chapter 05_2Exercises.mp3",
+		            "id": 407091,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P069_Chapter 05_1Model Conversation.mp3",
+		            "id": 407092,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P069_Chapter 05_2Exercises.mp3",
+		            "id": 407093,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P070_Chapter 05_Reading.mp3",
+		            "id": 407094,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P072_Chapter 05_1Model Conversations.mp3",
+		            "id": 407095,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P072_Chapter 05_2Exercises.mp3",
+		            "id": 407096,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P074_Chapter 05_1Model Conversations.mp3",
+		            "id": 407097,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P074_Chapter 05_2Exercises.mp3",
+		            "id": 407098,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P075_Chapter 05_How to Say it!.mp3",
+		            "id": 407099,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P076_Chapter 05_1Reading.mp3",
+		            "id": 407100,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P076_Chapter 05_2Listening.mp3",
+		            "id": 407101,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P078_Chapter 05_Pronunciation.mp3",
+		            "id": 407102,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P079_Side by Side Gazette 02_Feature Article.mp3",
+		            "id": 407103,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P080_Side by Side Gazette 02_Around the World.mp3",
+		            "id": 407104,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P081_Side by Side Gazette 02_1Interview.mp3",
+		            "id": 407105,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P081_Side by Side Gazette 02_2Fun With Idioms.mp3",
+		            "id": 407106,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P082_Side by Side Gazette 02_1We've Got Mail!.mp3",
+		            "id": 407107,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P082_Side by Side Gazette 02_2Global Exchange.mp3",
+		            "id": 407108,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P082_Side by Side Gazette 02_3Listening.mp3",
+		            "id": 407109,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P083_Chapter 06_Vocabulary Preview.mp3",
+		            "id": 407110,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P084_Chapter 06_1Model Conversation.mp3",
+		            "id": 407111,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P084_Chapter 06_2Exercises.mp3",
+		            "id": 407112,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P086_Chapter 06_1Model Conversation.mp3",
+		            "id": 407113,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P086_Chapter 06_2Exercises.mp3",
+		            "id": 407114,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P086_Chapter 06_3How to Say it!.mp3",
+		            "id": 407115,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P087_Chapter 06_1Model Conversations.mp3",
+		            "id": 407116,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P087_Chapter 06_2Exercises.mp3",
+		            "id": 407117,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P088_Chapter 06_Reading.mp3",
+		            "id": 407118,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P089_Chapter 06_1Model Conversation.mp3",
+		            "id": 407119,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P089_Chapter 06_2Exercises.mp3",
+		            "id": 407120,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P090_Chapter 06_Model Conversations.mp3",
+		            "id": 407121,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P091_Chapter 06_Exercises.mp3",
+		            "id": 407122,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P092_Chapter 06_Reading.mp3",
+		            "id": 407123,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P093_Chapter 06_1Reading.mp3",
+		            "id": 407124,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P093_Chapter 06_2Listening.mp3",
+		            "id": 407125,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P094_Chapter 06_Pronunciation.mp3",
+		            "id": 407126,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P095_Chapter 07_Vocabulary Preview.mp3",
+		            "id": 407127,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P096_Chapter 07_1Model Conversations.mp3",
+		            "id": 407128,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P096_Chapter 07_2Exercises.mp3",
+		            "id": 407129,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P098_Chapter 07_1Model Conversation.mp3",
+		            "id": 407130,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P098_Chapter 07_2Exercises.mp3",
+		            "id": 407131,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P100_Chapter 07_Reading.mp3",
+		            "id": 407132,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P101_Chapter 07_Reading.mp3",
+		            "id": 407133,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P102_Chapter 07_1Model Conversations.mp3",
+		            "id": 407134,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P102_Chapter 07_2Exercises.mp3",
+		            "id": 407135,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P103_Chapter 07_How to Say it!.mp3",
+		            "id": 407136,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P104_Chapter 07_Reading.mp3",
+		            "id": 407137,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P105_Chapter 07_Listening.mp3",
+		            "id": 407138,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P106_Chapter 07_On Your Own.mp3",
+		            "id": 407139,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P108_Chapter 07_Pronunciation.mp3",
+		            "id": 407140,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P109_Chapter 08_Vocabulary Preview.mp3",
+		            "id": 407141,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P110_Chapter 08_1Model Conversation.mp3",
+		            "id": 407142,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P110_Chapter 08_2Exercises.mp3",
+		            "id": 407143,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P112_Chapter 08_1Model Conversation.mp3",
+		            "id": 407144,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P112_Chapter 08_2Exercises.mp3",
+		            "id": 407145,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P113_Chapter 08_How to Say it!.mp3",
+		            "id": 407146,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P114_Chapter 08_Reading.mp3",
+		            "id": 407147,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P115_Chapter 08_Listening.mp3",
+		            "id": 407148,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P116_Chapter 08_Model Conversations.mp3",
+		            "id": 407149,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P117_Chapter 08_Exercises.mp3",
+		            "id": 407150,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P119_Chapter 08_Reading.mp3",
+		            "id": 407151,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P120_Chapter 08_Model Conversations.mp3",
+		            "id": 407152,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P121_Chapter 08_Exercises.mp3",
+		            "id": 407153,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P122_Chapter 08_Reading.mp3",
+		            "id": 407154,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P123_Chapter 08_Pronunciation.mp3",
+		            "id": 407155,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P125_Side by Side Gazette 03_Feature Article.mp3",
+		            "id": 407156,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P126_Side by Side Gazette 03_1 2nd Article.mp3",
+		            "id": 407157,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P126_Side by Side Gazette 03_2 Around the World.mp3",
+		            "id": 407158,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P127_Side by Side Gazette 03_1Interview.mp3",
+		            "id": 407159,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P127_Side by Side Gazette 03_2Fun With Idioms.mp3",
+		            "id": 407160,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P128_Side by Side Gazette 03_1We\'ve Got Mail!.mp3",
+		            "id": 407161,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P128_Side by Side Gazette 03_2Global Exchange.mp3",
+		            "id": 407162,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P128_Side by Side Gazette 03_3Listening.mp3",
+		            "id": 407163,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P129_Chapter 09_Vocabulary Preview.mp3",
+		            "id": 407164,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P130_Chapter 09_1Model Conversation.mp3",
+		            "id": 407165,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P130_Chapter 09_2Exercises.mp3",
+		            "id": 407166,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P131_Chapter 09_1Model Conversation.mp3",
+		            "id": 407167,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P131_Chapter 09_2Exercises.mp3",
+		            "id": 407168,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P132_Chapter 09_1Model Conversations.mp3",
+		            "id": 407169,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P132_Chapter 09_2Exercises.mp3",
+		            "id": 407170,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P133_Chapter 09_How to Say it!.mp3",
+		            "id": 407171,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P134_Chapter 09_1Model Conversations.mp3",
+		            "id": 407172,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P134_Chapter 09_2Exercises.mp3",
+		            "id": 407173,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P136_Chapter 09_1Model Conversations.mp3",
+		            "id": 407174,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P136_Chapter 09_2Exercises.mp3",
+		            "id": 407175,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P138_Chapter 09_Reading.mp3",
+		            "id": 407176,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P140_Chapter 09_Reading.mp3",
+		            "id": 407177,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P141_Chapter 09_1Listening.mp3",
+		            "id": 407178,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P141_Chapter 09_2In Your Own Words.mp3",
+		            "id": 407179,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P142_Chapter 09_Interactions.mp3",
+		            "id": 407180,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P144_Chapter 09_Pronunciation.mp3",
+		            "id": 407181,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P145_Chapter 10_Vocabulary Preview.mp3",
+		            "id": 407182,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P146_Chapter 10_Model Conversation.mp3",
+		            "id": 407183,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P147_Chapter 10_1Exercises.mp3",
+		            "id": 407184,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P147_Chapter 10_2How to Say it!.mp3",
+		            "id": 407185,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P148_Chapter 10_1Model Conversation.mp3",
+		            "id": 407186,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P148_Chapter 10_2Exercises.mp3",
+		            "id": 407187,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P150_Chapter 10_Reading.mp3",
+		            "id": 407188,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P151_Chapter 10_Listening.mp3",
+		            "id": 407189,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P152_Chapter 10_1Model Conversation.mp3",
+		            "id": 407190,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P152_Chapter 10_2Exercises.mp3",
+		            "id": 407191,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P154_Chapter 10_Model Conversation.mp3",
+		            "id": 407192,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P155_Chapter 10_Exercises.mp3",
+		            "id": 407193,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P156_Chapter 10_Reading.mp3",
+		            "id": 407194,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P158_Chapter 10_Pronunciation.mp3",
+		            "id": 407195,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P159_Side by Side Gazette 04_Feature Article.mp3",
+		            "id": 407196,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P160_Side by Side Gazette 04_Around the World.mp3",
+		            "id": 407197,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P161_Side by Side Gazette 04_1Interview.mp3",
+		            "id": 407198,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P161_Side by Side Gazette 04_2Fun With Idioms.mp3",
+		            "id": 407199,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P162_Side by Side Gazette 04_1We've Got Mail!.mp3",
+		            "id": 407200,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P162_Side by Side Gazette 04_2Listening.mp3",
+		            "id": 407201,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P162_Side by Side Gazette 04_3Global Exchange.mp3",
+		            "id": 407202,
+		            "ar": [
+		              {
+		                 "id": 407,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book407",
+		              "name": "国际朗文英语第4册",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+
+		    	],
+			    "adType": 0,
+			    "trackNumberUpdateTime": 1497861674034,
+			    "ordered": false,
+			    "tags": [],
+			    "updateTime": 1497861674034,
+			    "commentThreadId": "A_PL_0_100003",
+			    "coverImgId": 3384296791485810,
+			    "createTime": 1359375591913,
+			    "userId": 79002,
+			    "cloudTrackCount": 0,
+			    "subscribedCount": 0,
+			    "privacy": 0,
+			    "newImported": false,
+			    "specialType": 5,
+			    "trackUpdateTime": 1497870817842,
+			    "trackCount": 202,
+			    "highQuality": false,
+			    "playCount": 999,
+			    "coverImgUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+			    "description": null,
+			    "status": 0,
+			    "name": "国际朗文英语第4册",
+			    "id": "book4007",
+			    "shareCount": 0,
+			    "commentCount": 0
+			  },
+			  "code": 200,
+			  "privileges": [
+			      {
+			          "id": 407001,
+			        "st": 0
+			      },
+			        {
+			          "id": 407002,
+			        "st": 0
+			      },
+			        {
+			          "id": 407003,
+			        "st": 0
+			      },
+			        {
+			          "id": 407004,
+			        "st": 0
+			      },
+			        {
+			          "id": 407005,
+			        "st": 0
+			      },
+			        {
+			          "id": 407006,
+			        "st": 0
+			      },
+			        {
+			          "id": 407007,
+			        "st": 0
+			      },
+			        {
+			          "id": 407008,
+			        "st": 0
+			      },
+			        {
+			          "id": 407009,
+			        "st": 0
+			      },
+			        {
+			          "id": 407010,
+			        "st": 0
+			      },
+			        {
+			          "id": 407011,
+			        "st": 0
+			      },
+			        {
+			          "id": 407012,
+			        "st": 0
+			      },
+			        {
+			          "id": 407013,
+			        "st": 0
+			      },
+			        {
+			          "id": 407014,
+			        "st": 0
+			      },
+			        {
+			          "id": 407015,
+			        "st": 0
+			      },
+			        {
+			          "id": 407016,
+			        "st": 0
+			      },
+			        {
+			          "id": 407017,
+			        "st": 0
+			      },
+			        {
+			          "id": 407018,
+			        "st": 0
+			      },
+			        {
+			          "id": 407019,
+			        "st": 0
+			      },
+			        {
+			          "id": 407020,
+			        "st": 0
+			      },
+			        {
+			          "id": 407021,
+			        "st": 0
+			      },
+			        {
+			          "id": 407022,
+			        "st": 0
+			      },
+			        {
+			          "id": 407023,
+			        "st": 0
+			      },
+			        {
+			          "id": 407024,
+			        "st": 0
+			      },
+			        {
+			          "id": 407025,
+			        "st": 0
+			      },
+			        {
+			          "id": 407026,
+			        "st": 0
+			      },
+			        {
+			          "id": 407027,
+			        "st": 0
+			      },
+			        {
+			          "id": 407028,
+			        "st": 0
+			      },
+			        {
+			          "id": 407029,
+			        "st": 0
+			      },
+			        {
+			          "id": 407030,
+			        "st": 0
+			      },
+			        {
+			          "id": 407031,
+			        "st": 0
+			      },
+			        {
+			          "id": 407032,
+			        "st": 0
+			      },
+			        {
+			          "id": 407033,
+			        "st": 0
+			      },
+			        {
+			          "id": 407034,
+			        "st": 0
+			      },
+			        {
+			          "id": 407035,
+			        "st": 0
+			      },
+			        {
+			          "id": 407036,
+			        "st": 0
+			      },
+			        {
+			          "id": 407037,
+			        "st": 0
+			      },
+			        {
+			          "id": 407038,
+			        "st": 0
+			      },
+			        {
+			          "id": 407039,
+			        "st": 0
+			      },
+			        {
+			          "id": 407040,
+			        "st": 0
+			      },
+			        {
+			          "id": 407041,
+			        "st": 0
+			      },
+			        {
+			          "id": 407042,
+			        "st": 0
+			      },
+			        {
+			          "id": 407043,
+			        "st": 0
+			      },
+			        {
+			          "id": 407044,
+			        "st": 0
+			      },
+			        {
+			          "id": 407045,
+			        "st": 0
+			      },
+			        {
+			          "id": 407046,
+			        "st": 0
+			      },
+			        {
+			          "id": 407047,
+			        "st": 0
+			      },
+			        {
+			          "id": 407048,
+			        "st": 0
+			      },
+			        {
+			          "id": 407049,
+			        "st": 0
+			      },
+			        {
+			          "id": 407050,
+			        "st": 0
+			      },
+			        {
+			          "id": 407051,
+			        "st": 0
+			      },
+			        {
+			          "id": 407052,
+			        "st": 0
+			      },
+			        {
+			          "id": 407053,
+			        "st": 0
+			      },
+			        {
+			          "id": 407054,
+			        "st": 0
+			      },
+			        {
+			          "id": 407055,
+			        "st": 0
+			      },
+			        {
+			          "id": 407056,
+			        "st": 0
+			      },
+			        {
+			          "id": 407057,
+			        "st": 0
+			      },
+			        {
+			          "id": 407058,
+			        "st": 0
+			      },
+			        {
+			          "id": 407059,
+			        "st": 0
+			      },
+			        {
+			          "id": 407060,
+			        "st": 0
+			      },
+			        {
+			          "id": 407061,
+			        "st": 0
+			      },
+			        {
+			          "id": 407062,
+			        "st": 0
+			      },
+			        {
+			          "id": 407063,
+			        "st": 0
+			      },
+			        {
+			          "id": 407064,
+			        "st": 0
+			      },
+			        {
+			          "id": 407065,
+			        "st": 0
+			      },
+			        {
+			          "id": 407066,
+			        "st": 0
+			      },
+			        {
+			          "id": 407067,
+			        "st": 0
+			      },
+			        {
+			          "id": 407068,
+			        "st": 0
+			      },
+			        {
+			          "id": 407069,
+			        "st": 0
+			      },
+			        {
+			          "id": 407070,
+			        "st": 0
+			      },
+			        {
+			          "id": 407071,
+			        "st": 0
+			      },
+			        {
+			          "id": 407072,
+			        "st": 0
+			      },
+			        {
+			          "id": 407073,
+			        "st": 0
+			      },
+			        {
+			          "id": 407074,
+			        "st": 0
+			      },
+			        {
+			          "id": 407075,
+			        "st": 0
+			      },
+			        {
+			          "id": 407076,
+			        "st": 0
+			      },
+			        {
+			          "id": 407077,
+			        "st": 0
+			      },
+			        {
+			          "id": 407078,
+			        "st": 0
+			      },
+			        {
+			          "id": 407079,
+			        "st": 0
+			      },
+			        {
+			          "id": 407080,
+			        "st": 0
+			      },
+			        {
+			          "id": 407081,
+			        "st": 0
+			      },
+			        {
+			          "id": 407082,
+			        "st": 0
+			      },
+			        {
+			          "id": 407083,
+			        "st": 0
+			      },
+			        {
+			          "id": 407084,
+			        "st": 0
+			      },
+			        {
+			          "id": 407085,
+			        "st": 0
+			      },
+			        {
+			          "id": 407086,
+			        "st": 0
+			      },
+			        {
+			          "id": 407087,
+			        "st": 0
+			      },
+			        {
+			          "id": 407088,
+			        "st": 0
+			      },
+			        {
+			          "id": 407089,
+			        "st": 0
+			      },
+			        {
+			          "id": 407090,
+			        "st": 0
+			      },
+			        {
+			          "id": 407091,
+			        "st": 0
+			      },
+			        {
+			          "id": 407092,
+			        "st": 0
+			      },
+			        {
+			          "id": 407093,
+			        "st": 0
+			      },
+			        {
+			          "id": 407094,
+			        "st": 0
+			      },
+			        {
+			          "id": 407095,
+			        "st": 0
+			      },
+			        {
+			          "id": 407096,
+			        "st": 0
+			      },
+			        {
+			          "id": 407097,
+			        "st": 0
+			      },
+			        {
+			          "id": 407098,
+			        "st": 0
+			      },
+			        {
+			          "id": 407099,
+			        "st": 0
+			      },
+			        {
+			          "id": 407100,
+			        "st": 0
+			      },
+			        {
+			          "id": 407101,
+			        "st": 0
+			      },
+			        {
+			          "id": 407102,
+			        "st": 0
+			      },
+			        {
+			          "id": 407103,
+			        "st": 0
+			      },
+			        {
+			          "id": 407104,
+			        "st": 0
+			      },
+			        {
+			          "id": 407105,
+			        "st": 0
+			      },
+			        {
+			          "id": 407106,
+			        "st": 0
+			      },
+			        {
+			          "id": 407107,
+			        "st": 0
+			      },
+			        {
+			          "id": 407108,
+			        "st": 0
+			      },
+			        {
+			          "id": 407109,
+			        "st": 0
+			      },
+			        {
+			          "id": 407110,
+			        "st": 0
+			      },
+			        {
+			          "id": 407111,
+			        "st": 0
+			      },
+			        {
+			          "id": 407112,
+			        "st": 0
+			      },
+			        {
+			          "id": 407113,
+			        "st": 0
+			      },
+			        {
+			          "id": 407114,
+			        "st": 0
+			      },
+			        {
+			          "id": 407115,
+			        "st": 0
+			      },
+			        {
+			          "id": 407116,
+			        "st": 0
+			      },
+			        {
+			          "id": 407117,
+			        "st": 0
+			      },
+			        {
+			          "id": 407118,
+			        "st": 0
+			      },
+			        {
+			          "id": 407119,
+			        "st": 0
+			      },
+			        {
+			          "id": 407120,
+			        "st": 0
+			      },
+			        {
+			          "id": 407121,
+			        "st": 0
+			      },
+			        {
+			          "id": 407122,
+			        "st": 0
+			      },
+			        {
+			          "id": 407123,
+			        "st": 0
+			      },
+			        {
+			          "id": 407124,
+			        "st": 0
+			      },
+			        {
+			          "id": 407125,
+			        "st": 0
+			      },
+			        {
+			          "id": 407126,
+			        "st": 0
+			      },
+			        {
+			          "id": 407127,
+			        "st": 0
+			      },
+			        {
+			          "id": 407128,
+			        "st": 0
+			      },
+			        {
+			          "id": 407129,
+			        "st": 0
+			      },
+			        {
+			          "id": 407130,
+			        "st": 0
+			      },
+			        {
+			          "id": 407131,
+			        "st": 0
+			      },
+			        {
+			          "id": 407132,
+			        "st": 0
+			      },
+			        {
+			          "id": 407133,
+			        "st": 0
+			      },
+			        {
+			          "id": 407134,
+			        "st": 0
+			      },
+			        {
+			          "id": 407135,
+			        "st": 0
+			      },
+			        {
+			          "id": 407136,
+			        "st": 0
+			      },
+			        {
+			          "id": 407137,
+			        "st": 0
+			      },
+			        {
+			          "id": 407138,
+			        "st": 0
+			      },
+			        {
+			          "id": 407139,
+			        "st": 0
+			      },
+			        {
+			          "id": 407140,
+			        "st": 0
+			      },
+			        {
+			          "id": 407141,
+			        "st": 0
+			      },
+			        {
+			          "id": 407142,
+			        "st": 0
+			      },
+			        {
+			          "id": 407143,
+			        "st": 0
+			      },
+			        {
+			          "id": 407144,
+			        "st": 0
+			      },
+			        {
+			          "id": 407145,
+			        "st": 0
+			      },
+			        {
+			          "id": 407146,
+			        "st": 0
+			      },
+			        {
+			          "id": 407147,
+			        "st": 0
+			      },
+			        {
+			          "id": 407148,
+			        "st": 0
+			      },
+			        {
+			          "id": 407149,
+			        "st": 0
+			      },
+			        {
+			          "id": 407150,
+			        "st": 0
+			      },
+			        {
+			          "id": 407151,
+			        "st": 0
+			      },
+			        {
+			          "id": 407152,
+			        "st": 0
+			      },
+			        {
+			          "id": 407153,
+			        "st": 0
+			      },
+			        {
+			          "id": 407154,
+			        "st": 0
+			      },
+			        {
+			          "id": 407155,
+			        "st": 0
+			      },
+			        {
+			          "id": 407156,
+			        "st": 0
+			      },
+			        {
+			          "id": 407157,
+			        "st": 0
+			      },
+			        {
+			          "id": 407158,
+			        "st": 0
+			      },
+			        {
+			          "id": 407159,
+			        "st": 0
+			      },
+			        {
+			          "id": 407160,
+			        "st": 0
+			      },
+			        {
+			          "id": 407161,
+			        "st": 0
+			      },
+			        {
+			          "id": 407162,
+			        "st": 0
+			      },
+			        {
+			          "id": 407163,
+			        "st": 0
+			      },
+			        {
+			          "id": 407164,
+			        "st": 0
+			      },
+			        {
+			          "id": 407165,
+			        "st": 0
+			      },
+			        {
+			          "id": 407166,
+			        "st": 0
+			      },
+			        {
+			          "id": 407167,
+			        "st": 0
+			      },
+			        {
+			          "id": 407168,
+			        "st": 0
+			      },
+			        {
+			          "id": 407169,
+			        "st": 0
+			      },
+			        {
+			          "id": 407170,
+			        "st": 0
+			      },
+			        {
+			          "id": 407171,
+			        "st": 0
+			      },
+			        {
+			          "id": 407172,
+			        "st": 0
+			      },
+			        {
+			          "id": 407173,
+			        "st": 0
+			      },
+			        {
+			          "id": 407174,
+			        "st": 0
+			      },
+			        {
+			          "id": 407175,
+			        "st": 0
+			      },
+			        {
+			          "id": 407176,
+			        "st": 0
+			      },
+			        {
+			          "id": 407177,
+			        "st": 0
+			      },
+			        {
+			          "id": 407178,
+			        "st": 0
+			      },
+			        {
+			          "id": 407179,
+			        "st": 0
+			      },
+			        {
+			          "id": 407180,
+			        "st": 0
+			      },
+			        {
+			          "id": 407181,
+			        "st": 0
+			      },
+			        {
+			          "id": 407182,
+			        "st": 0
+			      },
+			        {
+			          "id": 407183,
+			        "st": 0
+			      },
+			        {
+			          "id": 407184,
+			        "st": 0
+			      },
+			        {
+			          "id": 407185,
+			        "st": 0
+			      },
+			        {
+			          "id": 407186,
+			        "st": 0
+			      },
+			        {
+			          "id": 407187,
+			        "st": 0
+			      },
+			        {
+			          "id": 407188,
+			        "st": 0
+			      },
+			        {
+			          "id": 407189,
+			        "st": 0
+			      },
+			        {
+			          "id": 407190,
+			        "st": 0
+			      },
+			        {
+			          "id": 407191,
+			        "st": 0
+			      },
+			        {
+			          "id": 407192,
+			        "st": 0
+			      },
+			        {
+			          "id": 407193,
+			        "st": 0
+			      },
+			        {
+			          "id": 407194,
+			        "st": 0
+			      },
+			        {
+			          "id": 407195,
+			        "st": 0
+			      },
+			        {
+			          "id": 407196,
+			        "st": 0
+			      },
+			        {
+			          "id": 407197,
+			        "st": 0
+			      },
+			        {
+			          "id": 407198,
+			        "st": 0
+			      },
+			        {
+			          "id": 407199,
+			        "st": 0
+			      },
+			        {
+			          "id": 407200,
+			        "st": 0
+			      },
+			        {
+			          "id": 407201,
+			        "st": 0
+			      },
+			        {
+			          "id": 407202,
+			        "st": 0
+			      },
+
+				  ]
+			}
+
+const book408 =
+{
+		"playlist": {
+		    "subscribers": [],
+		    "subscribed": false,
+		    "creator": {
+		    },
+		    "tracks": [
+		        {
+		            "name": "A001Introduction%20.MP3",
+		            "id": 408001,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P003_Chapter%2001_Exercise%20C%20Listening.mp3",
+		            "id": 408002,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P005_Chapter%2001_Exercise%20E%20GrammarRap.mp3",
+		            "id": 408003,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P006_Chapter%2001_Exercise%20G%20Listening.mp3",
+		            "id": 408004,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P008_Chapter%2001_Exercise%20K%20Listening.mp3",
+		            "id": 408005,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P016_Chapter%2001_Exercise%20R%20GrammarRap.mp3",
+		            "id": 408006,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P016_Chapter%2001_Exercise%20S%20Listening.mp3",
+		            "id": 408007,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P023_Chapter%2002_Exercise%20G%20GrammarRap.mp3",
+		            "id": 408008,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P028_Chapter%2002_Exercise%20K%20GrammarRap.mp3",
+		            "id": 408009,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P029_Chapter%2002_Exercise%20M%20Listening.mp3",
+		            "id": 408010,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P030_Chapter%2002_Exercise%20O%20Listening.mp3",
+		            "id": 408011,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P031_Chapter%2002_Exercise%20P%20Have%20you%20Heard.mp3",
+		            "id": 408012,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P034_Chapter%2003_Exercise%20C%20GrammarRap.mp3",
+		            "id": 408013,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P035_Chapter%2003_Exercise%20E%20Listening.mp3",
+		            "id": 408014,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P039_Chapter%2003_Exercise%20L%20Listening.mp3",
+		            "id": 408015,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P041_Chapter%2003_Exercise%20O%20GrammarRap.mp3",
+		            "id": 408016,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P043_Chapter%2003_Exercise%20R%20Listening.mp3",
+		            "id": 408017,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P045_Check-Up%20Test%20Chapters%2001-03_Exercise%20D%20Listening.mp3",
+		            "id": 408018,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P049_Chapter%2004_Exercise%20E%20Listening.mp3",
+		            "id": 408019,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P049_Chapter%2004_Exercise%20F%20GrammarRap.mp3",
+		            "id": 408020,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P052_Chapter%2004_Exercise%20H%20GrammarRap.mp3",
+		            "id": 408021,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P053_Chapter%2004_Exercise%20J%20Listening.mp3",
+		            "id": 408022,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P053_Chapter%2004_Exercise%20K%20GrammarRap.mp3",
+		            "id": 408023,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P058_Chapter%2005_Exercise%20D%20Listening.mp3",
+		            "id": 408024,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P059_Chapter%2005_Exercise%20E%20GrammarRap.mp3",
+		            "id": 408025,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P063_Chapter%2005_Exercise%20J%20Listening.mp3",
+		            "id": 408026,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P066_Chapter%2005_Exercise%20N%20Listening.mp3",
+		            "id": 408027,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P073_Chapter%2005_Exercise%20U%20GrammarRap.mp3",
+		            "id": 408028,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P073_Chapter%2005_Exercise%20V%20GrammarRap.mp3",
+		            "id": 408029,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P074_Chapter%2005_Exercise%20W%20Listening.mp3",
+		            "id": 408030,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P077_Check-Up%20Test%20Chapters%2004-05_Exercise%20D%20Listening.mp3",
+		            "id": 408031,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P080_Chapter%2006_Exercise%20E%20Listening.mp3",
+		            "id": 408032,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P082_Chapter%2006_Exercise%20G%20GrammarRap.mp3",
+		            "id": 408033,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P083_Chapter%2006_Exercise%20I%20Listening.mp3",
+		            "id": 408034,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P086_Chapter%2006_Exercise%20N%20Listening.mp3",
+		            "id": 408035,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P087_Chapter%2006_Exercise%20P%20GrammarRap.mp3",
+		            "id": 408036,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P089_Chapter%2006_Exercise%20R%20Sound%20It%20Out!.mp3",
+		            "id": 408037,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P093_Chapter%2007_Exercise%20E%20Listening.mp3",
+		            "id": 408038,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P096_Chapter%2007_Exercise%20J%20GrammarRap.mp3",
+		            "id": 408039,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P099_Chapter%2007_Exercise%20N%20GrammarRap.mp3",
+		            "id": 408040,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P102_Chapter%2007_Exercise%20R%20Listening.mp3",
+		            "id": 408041,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P102_Chapter%2007_Exercise%20S%20Listening.mp3",
+		            "id": 408042,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P102_Chapter%2007_Exercise%20T%20Listening.mp3",
+		            "id": 408043,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P103_Chapter%2007_Exercise%20U%20Have%20You%20Heard.mp3",
+		            "id": 408044,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P107_Chapter%2008_Exercise%20C%20GrammarRap.mp3",
+		            "id": 408045,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P108_Chapter%2008_Exercise%20E%20Listening.mp3",
+		            "id": 408046,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P110_Chapter%2008_Exercise%20H%20Listening.mp3",
+		            "id": 408047,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P113_Chapter%2008_Exercise%20J%20GrammarRap.mp3",
+		            "id": 408048,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P118_Chapter%2008_Exercise%20O%20GrammarRap.mp3",
+		            "id": 408049,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P120_Chapter%2008_Exercise%20Q%20Listening.mp3",
+		            "id": 408050,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P123_Check-Up%20Test%20Chapters%2007-08_Exercise%20D%20Listening.mp3",
+		            "id": 408051,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P129_Chapter%2009_Exercise%20G%20Listening.mp3",
+		            "id": 408052,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P130_Chapter%2009_Exercise%20I%20GrammarRap.mp3",
+		            "id": 408053,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P132_Chapter%2009_Exercise%20L%20Listening.mp3",
+		            "id": 408054,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P137_Chapter%2009_Exercise%20P%20Listening.mp3",
+		            "id": 408055,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P141_Chapter%2010_Exercise%20D%20GrammarRap.mp3",
+		            "id": 408056,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P143_Chapter%2010_Exercise%20F%20GrammarRap.mp3",
+		            "id": 408057,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P145_Chapter%2010_Exercise%20J%20Listening.mp3",
+		            "id": 408058,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P147_Chapter%2010_Exercise%20M%20GrammarRap.mp3",
+		            "id": 408059,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P150_Chapter%2010_Exercise%20P%20Listening.mp3",
+		            "id": 408060,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P151_Chapter%2010_Exercise%20R%20Listening.mp3",
+		            "id": 408061,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P151_Chapter%2010_Exercise%20S%20Have%20You%20Heard.mp3",
+		            "id": 408062,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+		          {
+		            "name": "P153_Check-Up%20Test%20Chapters%2009-10_Exercise%20E%20Listening.mp3",
+		            "id": 408063,
+		            "ar": [
+		              {
+		                 "id": 408,
+		                 "name": "SBS",
+		              }
+		            ],
+		            "al": {
+		              "id": "book408",
+		              "name": "国际朗文英语第4册练习",
+		              "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+		            },
+		          },
+
+		    	],
+			    "adType": 0,
+			    "trackNumberUpdateTime": 1497861674034,
+			    "ordered": false,
+			    "tags": [],
+			    "updateTime": 1497861674034,
+			    "commentThreadId": "A_PL_0_100003",
+			    "coverImgId": 3384296791485810,
+			    "createTime": 1359375591913,
+			    "userId": 79002,
+			    "cloudTrackCount": 0,
+			    "subscribedCount": 0,
+			    "privacy": 0,
+			    "newImported": false,
+			    "specialType": 5,
+			    "trackUpdateTime": 1497870817842,
+			    "trackCount": 63,
+			    "highQuality": false,
+			    "playCount": 999,
+			    "coverImgUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4e.jpg",
+			    "description": null,
+			    "status": 0,
+			    "name": "国际朗文英语练习第4册",
+			    "id": "book4008",
+			    "shareCount": 0,
+			    "commentCount": 0
+			  },
+			  "code": 200,
+			  "privileges": [
+			      {
+			          "id": 408001,
+			        "st": 0
+			      },
+			        {
+			          "id": 408002,
+			        "st": 0
+			      },
+			        {
+			          "id": 408003,
+			        "st": 0
+			      },
+			        {
+			          "id": 408004,
+			        "st": 0
+			      },
+			        {
+			          "id": 408005,
+			        "st": 0
+			      },
+			        {
+			          "id": 408006,
+			        "st": 0
+			      },
+			        {
+			          "id": 408007,
+			        "st": 0
+			      },
+			        {
+			          "id": 408008,
+			        "st": 0
+			      },
+			        {
+			          "id": 408009,
+			        "st": 0
+			      },
+			        {
+			          "id": 408010,
+			        "st": 0
+			      },
+			        {
+			          "id": 408011,
+			        "st": 0
+			      },
+			        {
+			          "id": 408012,
+			        "st": 0
+			      },
+			        {
+			          "id": 408013,
+			        "st": 0
+			      },
+			        {
+			          "id": 408014,
+			        "st": 0
+			      },
+			        {
+			          "id": 408015,
+			        "st": 0
+			      },
+			        {
+			          "id": 408016,
+			        "st": 0
+			      },
+			        {
+			          "id": 408017,
+			        "st": 0
+			      },
+			        {
+			          "id": 408018,
+			        "st": 0
+			      },
+			        {
+			          "id": 408019,
+			        "st": 0
+			      },
+			        {
+			          "id": 408020,
+			        "st": 0
+			      },
+			        {
+			          "id": 408021,
+			        "st": 0
+			      },
+			        {
+			          "id": 408022,
+			        "st": 0
+			      },
+			        {
+			          "id": 408023,
+			        "st": 0
+			      },
+			        {
+			          "id": 408024,
+			        "st": 0
+			      },
+			        {
+			          "id": 408025,
+			        "st": 0
+			      },
+			        {
+			          "id": 408026,
+			        "st": 0
+			      },
+			        {
+			          "id": 408027,
+			        "st": 0
+			      },
+			        {
+			          "id": 408028,
+			        "st": 0
+			      },
+			        {
+			          "id": 408029,
+			        "st": 0
+			      },
+			        {
+			          "id": 408030,
+			        "st": 0
+			      },
+			        {
+			          "id": 408031,
+			        "st": 0
+			      },
+			        {
+			          "id": 408032,
+			        "st": 0
+			      },
+			        {
+			          "id": 408033,
+			        "st": 0
+			      },
+			        {
+			          "id": 408034,
+			        "st": 0
+			      },
+			        {
+			          "id": 408035,
+			        "st": 0
+			      },
+			        {
+			          "id": 408036,
+			        "st": 0
+			      },
+			        {
+			          "id": 408037,
+			        "st": 0
+			      },
+			        {
+			          "id": 408038,
+			        "st": 0
+			      },
+			        {
+			          "id": 408039,
+			        "st": 0
+			      },
+			        {
+			          "id": 408040,
+			        "st": 0
+			      },
+			        {
+			          "id": 408041,
+			        "st": 0
+			      },
+			        {
+			          "id": 408042,
+			        "st": 0
+			      },
+			        {
+			          "id": 408043,
+			        "st": 0
+			      },
+			        {
+			          "id": 408044,
+			        "st": 0
+			      },
+			        {
+			          "id": 408045,
+			        "st": 0
+			      },
+			        {
+			          "id": 408046,
+			        "st": 0
+			      },
+			        {
+			          "id": 408047,
+			        "st": 0
+			      },
+			        {
+			          "id": 408048,
+			        "st": 0
+			      },
+			        {
+			          "id": 408049,
+			        "st": 0
+			      },
+			        {
+			          "id": 408050,
+			        "st": 0
+			      },
+			        {
+			          "id": 408051,
+			        "st": 0
+			      },
+			        {
+			          "id": 408052,
+			        "st": 0
+			      },
+			        {
+			          "id": 408053,
+			        "st": 0
+			      },
+			        {
+			          "id": 408054,
+			        "st": 0
+			      },
+			        {
+			          "id": 408055,
+			        "st": 0
+			      },
+			        {
+			          "id": 408056,
+			        "st": 0
+			      },
+			        {
+			          "id": 408057,
+			        "st": 0
+			      },
+			        {
+			          "id": 408058,
+			        "st": 0
+			      },
+			        {
+			          "id": 408059,
+			        "st": 0
+			      },
+			        {
+			          "id": 408060,
+			        "st": 0
+			      },
+			        {
+			          "id": 408061,
+			        "st": 0
+			      },
+			        {
+			          "id": 408062,
+			        "st": 0
+			      },
+			        {
+			          "id": 408063,
+			        "st": 0
+			      },
+				  ]
+			}
+
+
+
+
 
 const book401 =
 {
@@ -41463,6 +46609,6900 @@ const detail406047 =
   "code": 200
 }
 
+const detail407001 = 
+{
+  "songs": [
+    {
+        "name": "A001Introduction .MP3",
+        "id": 407001,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407001,
+    }
+  ],
+  "code": 200
+}
+const detail407002 = 
+{
+  "songs": [
+    {
+        "name": "P001_Chapter 01_Vocabulary Preview.mp3",
+        "id": 407002,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407002,
+    }
+  ],
+  "code": 200
+}
+const detail407003 = 
+{
+  "songs": [
+    {
+        "name": "P002_Chapter 01_1Model Conversation.mp3",
+        "id": 407003,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407003,
+    }
+  ],
+  "code": 200
+}
+const detail407004 = 
+{
+  "songs": [
+    {
+        "name": "P002_Chapter 01_2Exercises.mp3",
+        "id": 407004,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407004,
+    }
+  ],
+  "code": 200
+}
+const detail407005 = 
+{
+  "songs": [
+    {
+        "name": "P003_Chapter 01_1Model Conversations.mp3",
+        "id": 407005,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407005,
+    }
+  ],
+  "code": 200
+}
+const detail407006 = 
+{
+  "songs": [
+    {
+        "name": "P003_Chapter 01_2Exercises.mp3",
+        "id": 407006,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407006,
+    }
+  ],
+  "code": 200
+}
+const detail407007 = 
+{
+  "songs": [
+    {
+        "name": "P004_Chapter 01_1Model Conversations.mp3",
+        "id": 407007,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407007,
+    }
+  ],
+  "code": 200
+}
+const detail407008 = 
+{
+  "songs": [
+    {
+        "name": "P004_Chapter 01_2Exercises.mp3",
+        "id": 407008,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407008,
+    }
+  ],
+  "code": 200
+}
+const detail407009 = 
+{
+  "songs": [
+    {
+        "name": "P005_Chapter 01_1Model Conversations.mp3",
+        "id": 407009,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407009,
+    }
+  ],
+  "code": 200
+}
+const detail407010 = 
+{
+  "songs": [
+    {
+        "name": "P005_Chapter 01_2Exercises.mp3",
+        "id": 407010,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407010,
+    }
+  ],
+  "code": 200
+}
+const detail407011 = 
+{
+  "songs": [
+    {
+        "name": "P006_Chapter 01_1Reading.mp3",
+        "id": 407011,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407011,
+    }
+  ],
+  "code": 200
+}
+const detail407012 = 
+{
+  "songs": [
+    {
+        "name": "P006_Chapter 01_2Listening.mp3",
+        "id": 407012,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407012,
+    }
+  ],
+  "code": 200
+}
+const detail407013 = 
+{
+  "songs": [
+    {
+        "name": "P007_Chapter 01_1Model Conversation.mp3",
+        "id": 407013,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407013,
+    }
+  ],
+  "code": 200
+}
+const detail407014 = 
+{
+  "songs": [
+    {
+        "name": "P007_Chapter 01_2Exercises.mp3",
+        "id": 407014,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407014,
+    }
+  ],
+  "code": 200
+}
+const detail407015 = 
+{
+  "songs": [
+    {
+        "name": "P008_Chapter 01_1Model Conversation.mp3",
+        "id": 407015,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407015,
+    }
+  ],
+  "code": 200
+}
+const detail407016 = 
+{
+  "songs": [
+    {
+        "name": "P008_Chapter 01_2Exercises.mp3",
+        "id": 407016,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407016,
+    }
+  ],
+  "code": 200
+}
+const detail407017 = 
+{
+  "songs": [
+    {
+        "name": "P009_Chapter 01_How to Say it!.mp3",
+        "id": 407017,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407017,
+    }
+  ],
+  "code": 200
+}
+const detail407018 = 
+{
+  "songs": [
+    {
+        "name": "P010_Chapter 01_1Model Conversation.mp3",
+        "id": 407018,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407018,
+    }
+  ],
+  "code": 200
+}
+const detail407019 = 
+{
+  "songs": [
+    {
+        "name": "P010_Chapter 01_2Exercises.mp3",
+        "id": 407019,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407019,
+    }
+  ],
+  "code": 200
+}
+const detail407020 = 
+{
+  "songs": [
+    {
+        "name": "P011_Chapter 01_1Model Conversation.mp3",
+        "id": 407020,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407020,
+    }
+  ],
+  "code": 200
+}
+const detail407021 = 
+{
+  "songs": [
+    {
+        "name": "P011_Chapter 01_2Exercises.mp3",
+        "id": 407021,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407021,
+    }
+  ],
+  "code": 200
+}
+const detail407022 = 
+{
+  "songs": [
+    {
+        "name": "P012_Chapter 01_1Model Conversation.mp3",
+        "id": 407022,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407022,
+    }
+  ],
+  "code": 200
+}
+const detail407023 = 
+{
+  "songs": [
+    {
+        "name": "P012_Chapter 01_2Exercises.mp3",
+        "id": 407023,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407023,
+    }
+  ],
+  "code": 200
+}
+const detail407024 = 
+{
+  "songs": [
+    {
+        "name": "P013_Chapter 01_Reading.mp3",
+        "id": 407024,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407024,
+    }
+  ],
+  "code": 200
+}
+const detail407025 = 
+{
+  "songs": [
+    {
+        "name": "P014_Chapter 01_Pronunciation.mp3",
+        "id": 407025,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407025,
+    }
+  ],
+  "code": 200
+}
+const detail407026 = 
+{
+  "songs": [
+    {
+        "name": "P015_Chapter 02_Vocabulary Preview.mp3",
+        "id": 407026,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407026,
+    }
+  ],
+  "code": 200
+}
+const detail407027 = 
+{
+  "songs": [
+    {
+        "name": "P016_Chapter 02_1Model Conversation.mp3",
+        "id": 407027,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407027,
+    }
+  ],
+  "code": 200
+}
+const detail407028 = 
+{
+  "songs": [
+    {
+        "name": "P016_Chapter 02_2Exercises.mp3",
+        "id": 407028,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407028,
+    }
+  ],
+  "code": 200
+}
+const detail407029 = 
+{
+  "songs": [
+    {
+        "name": "P017_Chapter 02_1Model Conversation.mp3",
+        "id": 407029,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407029,
+    }
+  ],
+  "code": 200
+}
+const detail407030 = 
+{
+  "songs": [
+    {
+        "name": "P017_Chapter 02_2Exercises.mp3",
+        "id": 407030,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407030,
+    }
+  ],
+  "code": 200
+}
+const detail407031 = 
+{
+  "songs": [
+    {
+        "name": "P018_Chapter 02_Reading.mp3",
+        "id": 407031,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407031,
+    }
+  ],
+  "code": 200
+}
+const detail407032 = 
+{
+  "songs": [
+    {
+        "name": "P019_Chapter 02_Listening.mp3",
+        "id": 407032,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407032,
+    }
+  ],
+  "code": 200
+}
+const detail407033 = 
+{
+  "songs": [
+    {
+        "name": "P020_Chapter 02_1Model Conversation.mp3",
+        "id": 407033,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407033,
+    }
+  ],
+  "code": 200
+}
+const detail407034 = 
+{
+  "songs": [
+    {
+        "name": "P020_Chapter 02_2Exercises.mp3",
+        "id": 407034,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407034,
+    }
+  ],
+  "code": 200
+}
+const detail407035 = 
+{
+  "songs": [
+    {
+        "name": "P021_Chapter 02_Reading.mp3",
+        "id": 407035,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407035,
+    }
+  ],
+  "code": 200
+}
+const detail407036 = 
+{
+  "songs": [
+    {
+        "name": "P022_Chapter 02_1Model Conversation.mp3",
+        "id": 407036,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407036,
+    }
+  ],
+  "code": 200
+}
+const detail407037 = 
+{
+  "songs": [
+    {
+        "name": "P022_Chapter 02_2Exercises.mp3",
+        "id": 407037,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407037,
+    }
+  ],
+  "code": 200
+}
+const detail407038 = 
+{
+  "songs": [
+    {
+        "name": "P023_Chapter 02_1Model Conversation.mp3",
+        "id": 407038,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407038,
+    }
+  ],
+  "code": 200
+}
+const detail407039 = 
+{
+  "songs": [
+    {
+        "name": "P023_Chapter 02_2Exercises.mp3",
+        "id": 407039,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407039,
+    }
+  ],
+  "code": 200
+}
+const detail407040 = 
+{
+  "songs": [
+    {
+        "name": "P024_Chapter 02_Model Conversations.mp3",
+        "id": 407040,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407040,
+    }
+  ],
+  "code": 200
+}
+const detail407041 = 
+{
+  "songs": [
+    {
+        "name": "P025_Chapter 02_Exercises.mp3",
+        "id": 407041,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407041,
+    }
+  ],
+  "code": 200
+}
+const detail407042 = 
+{
+  "songs": [
+    {
+        "name": "P026_Chapter 02_Model Conversation.mp3",
+        "id": 407042,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407042,
+    }
+  ],
+  "code": 200
+}
+const detail407043 = 
+{
+  "songs": [
+    {
+        "name": "P027_Chapter 02_1Exercises.mp3",
+        "id": 407043,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407043,
+    }
+  ],
+  "code": 200
+}
+const detail407044 = 
+{
+  "songs": [
+    {
+        "name": "P027_Chapter 02_2How to Say it!.mp3",
+        "id": 407044,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407044,
+    }
+  ],
+  "code": 200
+}
+const detail407045 = 
+{
+  "songs": [
+    {
+        "name": "P028_Chapter 02_Reading.mp3",
+        "id": 407045,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407045,
+    }
+  ],
+  "code": 200
+}
+const detail407046 = 
+{
+  "songs": [
+    {
+        "name": "P030_Chapter 02_Pronunciation.mp3",
+        "id": 407046,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407046,
+    }
+  ],
+  "code": 200
+}
+const detail407047 = 
+{
+  "songs": [
+    {
+        "name": "P031_Chapter 03_Vocabulary Preview.mp3",
+        "id": 407047,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407047,
+    }
+  ],
+  "code": 200
+}
+const detail407048 = 
+{
+  "songs": [
+    {
+        "name": "P032_Chapter 03_1Model Conversations.mp3",
+        "id": 407048,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407048,
+    }
+  ],
+  "code": 200
+}
+const detail407049 = 
+{
+  "songs": [
+    {
+        "name": "P032_Chapter 03_2Exercises.mp3",
+        "id": 407049,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407049,
+    }
+  ],
+  "code": 200
+}
+const detail407050 = 
+{
+  "songs": [
+    {
+        "name": "P034_Chapter 03_1Model Conversations.mp3",
+        "id": 407050,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407050,
+    }
+  ],
+  "code": 200
+}
+const detail407051 = 
+{
+  "songs": [
+    {
+        "name": "P034_Chapter 03_2Exercises.mp3",
+        "id": 407051,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407051,
+    }
+  ],
+  "code": 200
+}
+const detail407052 = 
+{
+  "songs": [
+    {
+        "name": "P036_Chapter 03_1Model Conversations.mp3",
+        "id": 407052,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407052,
+    }
+  ],
+  "code": 200
+}
+const detail407053 = 
+{
+  "songs": [
+    {
+        "name": "P036_Chapter 03_2Exercises.mp3",
+        "id": 407053,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407053,
+    }
+  ],
+  "code": 200
+}
+const detail407054 = 
+{
+  "songs": [
+    {
+        "name": "P037_Chapter 03_How to Say it!.mp3",
+        "id": 407054,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407054,
+    }
+  ],
+  "code": 200
+}
+const detail407055 = 
+{
+  "songs": [
+    {
+        "name": "P038_Chapter 03_Reading.mp3",
+        "id": 407055,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407055,
+    }
+  ],
+  "code": 200
+}
+const detail407056 = 
+{
+  "songs": [
+    {
+        "name": "P039_Chapter 03_Reading.mp3",
+        "id": 407056,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407056,
+    }
+  ],
+  "code": 200
+}
+const detail407057 = 
+{
+  "songs": [
+    {
+        "name": "P040_Chapter 03_Model Conversation.mp3",
+        "id": 407057,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407057,
+    }
+  ],
+  "code": 200
+}
+const detail407058 = 
+{
+  "songs": [
+    {
+        "name": "P041_Chapter 03_Exercises.mp3",
+        "id": 407058,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407058,
+    }
+  ],
+  "code": 200
+}
+const detail407059 = 
+{
+  "songs": [
+    {
+        "name": "P042_Chapter 03_1Reading.mp3",
+        "id": 407059,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407059,
+    }
+  ],
+  "code": 200
+}
+const detail407060 = 
+{
+  "songs": [
+    {
+        "name": "P042_Chapter 03_2Listening.mp3",
+        "id": 407060,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407060,
+    }
+  ],
+  "code": 200
+}
+const detail407061 = 
+{
+  "songs": [
+    {
+        "name": "P044_Chapter 03_Reading.mp3",
+        "id": 407061,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407061,
+    }
+  ],
+  "code": 200
+}
+const detail407062 = 
+{
+  "songs": [
+    {
+        "name": "P046_Chapter 03_Pronunciation.mp3",
+        "id": 407062,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407062,
+    }
+  ],
+  "code": 200
+}
+const detail407063 = 
+{
+  "songs": [
+    {
+        "name": "P047_Side by Side Gazette 01_Feature Article.mp3",
+        "id": 407063,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407063,
+    }
+  ],
+  "code": 200
+}
+const detail407064 = 
+{
+  "songs": [
+    {
+        "name": "P048_Side by Side Gazette 01_Around the World.mp3",
+        "id": 407064,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407064,
+    }
+  ],
+  "code": 200
+}
+const detail407065 = 
+{
+  "songs": [
+    {
+        "name": "P049_Side by Side Gazette 01_1Interview.mp3",
+        "id": 407065,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407065,
+    }
+  ],
+  "code": 200
+}
+const detail407066 = 
+{
+  "songs": [
+    {
+        "name": "P049_Side by Side Gazette 01_2Fun With Idioms.mp3",
+        "id": 407066,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407066,
+    }
+  ],
+  "code": 200
+}
+const detail407067 = 
+{
+  "songs": [
+    {
+        "name": "P050_Side by Side Gazette 01_1We\'ve Got Mail!.mp3",
+        "id": 407067,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407067,
+    }
+  ],
+  "code": 200
+}
+const detail407068 = 
+{
+  "songs": [
+    {
+        "name": "P050_Side by Side Gazette 01_2Global Exchange.mp3",
+        "id": 407068,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407068,
+    }
+  ],
+  "code": 200
+}
+const detail407069 = 
+{
+  "songs": [
+    {
+        "name": "P050_Side by Side Gazette 01_3Listening.mp3",
+        "id": 407069,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407069,
+    }
+  ],
+  "code": 200
+}
+const detail407070 = 
+{
+  "songs": [
+    {
+        "name": "P051_Chapter 04_Vocabulary Preview.mp3",
+        "id": 407070,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407070,
+    }
+  ],
+  "code": 200
+}
+const detail407071 = 
+{
+  "songs": [
+    {
+        "name": "P052_Chapter 04_1Model Conversation.mp3",
+        "id": 407071,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407071,
+    }
+  ],
+  "code": 200
+}
+const detail407072 = 
+{
+  "songs": [
+    {
+        "name": "P052_Chapter 04_2Exercises.mp3",
+        "id": 407072,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407072,
+    }
+  ],
+  "code": 200
+}
+const detail407073 = 
+{
+  "songs": [
+    {
+        "name": "P053_Chapter 04_1Model Conversation.mp3",
+        "id": 407073,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407073,
+    }
+  ],
+  "code": 200
+}
+const detail407074 = 
+{
+  "songs": [
+    {
+        "name": "P053_Chapter 04_2Exercises.mp3",
+        "id": 407074,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407074,
+    }
+  ],
+  "code": 200
+}
+const detail407075 = 
+{
+  "songs": [
+    {
+        "name": "P054_Chapter 04_1Model Conversations.mp3",
+        "id": 407075,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407075,
+    }
+  ],
+  "code": 200
+}
+const detail407076 = 
+{
+  "songs": [
+    {
+        "name": "P054_Chapter 04_2Exercises.mp3",
+        "id": 407076,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407076,
+    }
+  ],
+  "code": 200
+}
+const detail407077 = 
+{
+  "songs": [
+    {
+        "name": "P055_Chapter 04_How to Say it!.mp3",
+        "id": 407077,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407077,
+    }
+  ],
+  "code": 200
+}
+const detail407078 = 
+{
+  "songs": [
+    {
+        "name": "P056_Chapter 04_Reading.mp3",
+        "id": 407078,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407078,
+    }
+  ],
+  "code": 200
+}
+const detail407079 = 
+{
+  "songs": [
+    {
+        "name": "P057_Chapter 04_Reading.mp3",
+        "id": 407079,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407079,
+    }
+  ],
+  "code": 200
+}
+const detail407080 = 
+{
+  "songs": [
+    {
+        "name": "P058_Chapter 04_Model Conversations.mp3",
+        "id": 407080,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407080,
+    }
+  ],
+  "code": 200
+}
+const detail407081 = 
+{
+  "songs": [
+    {
+        "name": "P059_Chapter 04_Exercises.mp3",
+        "id": 407081,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407081,
+    }
+  ],
+  "code": 200
+}
+const detail407082 = 
+{
+  "songs": [
+    {
+        "name": "P060_Chapter 04_Reading.mp3",
+        "id": 407082,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407082,
+    }
+  ],
+  "code": 200
+}
+const detail407083 = 
+{
+  "songs": [
+    {
+        "name": "P061_Chapter 04_Listening.mp3",
+        "id": 407083,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407083,
+    }
+  ],
+  "code": 200
+}
+const detail407084 = 
+{
+  "songs": [
+    {
+        "name": "P062_Chapter 04_Pronunciation.mp3",
+        "id": 407084,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407084,
+    }
+  ],
+  "code": 200
+}
+const detail407085 = 
+{
+  "songs": [
+    {
+        "name": "P065_Chapter 05_Vocabulary Preview.mp3",
+        "id": 407085,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407085,
+    }
+  ],
+  "code": 200
+}
+const detail407086 = 
+{
+  "songs": [
+    {
+        "name": "P066_Chapter 05_1Model Conversation.mp3",
+        "id": 407086,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407086,
+    }
+  ],
+  "code": 200
+}
+const detail407087 = 
+{
+  "songs": [
+    {
+        "name": "P066_Chapter 05_2Exercises.mp3",
+        "id": 407087,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407087,
+    }
+  ],
+  "code": 200
+}
+const detail407088 = 
+{
+  "songs": [
+    {
+        "name": "P067_Chapter 05_1Model Conversation.mp3",
+        "id": 407088,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407088,
+    }
+  ],
+  "code": 200
+}
+const detail407089 = 
+{
+  "songs": [
+    {
+        "name": "P067_Chapter 05_2Exercises.mp3",
+        "id": 407089,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407089,
+    }
+  ],
+  "code": 200
+}
+const detail407090 = 
+{
+  "songs": [
+    {
+        "name": "P068_Chapter 05_1Model Conversations.mp3",
+        "id": 407090,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407090,
+    }
+  ],
+  "code": 200
+}
+const detail407091 = 
+{
+  "songs": [
+    {
+        "name": "P068_Chapter 05_2Exercises.mp3",
+        "id": 407091,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407091,
+    }
+  ],
+  "code": 200
+}
+const detail407092 = 
+{
+  "songs": [
+    {
+        "name": "P069_Chapter 05_1Model Conversation.mp3",
+        "id": 407092,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407092,
+    }
+  ],
+  "code": 200
+}
+const detail407093 = 
+{
+  "songs": [
+    {
+        "name": "P069_Chapter 05_2Exercises.mp3",
+        "id": 407093,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407093,
+    }
+  ],
+  "code": 200
+}
+const detail407094 = 
+{
+  "songs": [
+    {
+        "name": "P070_Chapter 05_Reading.mp3",
+        "id": 407094,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407094,
+    }
+  ],
+  "code": 200
+}
+const detail407095 = 
+{
+  "songs": [
+    {
+        "name": "P072_Chapter 05_1Model Conversations.mp3",
+        "id": 407095,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407095,
+    }
+  ],
+  "code": 200
+}
+const detail407096 = 
+{
+  "songs": [
+    {
+        "name": "P072_Chapter 05_2Exercises.mp3",
+        "id": 407096,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407096,
+    }
+  ],
+  "code": 200
+}
+const detail407097 = 
+{
+  "songs": [
+    {
+        "name": "P074_Chapter 05_1Model Conversations.mp3",
+        "id": 407097,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407097,
+    }
+  ],
+  "code": 200
+}
+const detail407098 = 
+{
+  "songs": [
+    {
+        "name": "P074_Chapter 05_2Exercises.mp3",
+        "id": 407098,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407098,
+    }
+  ],
+  "code": 200
+}
+const detail407099 = 
+{
+  "songs": [
+    {
+        "name": "P075_Chapter 05_How to Say it!.mp3",
+        "id": 407099,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407099,
+    }
+  ],
+  "code": 200
+}
+const detail407100 = 
+{
+  "songs": [
+    {
+        "name": "P076_Chapter 05_1Reading.mp3",
+        "id": 407100,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407100,
+    }
+  ],
+  "code": 200
+}
+const detail407101 = 
+{
+  "songs": [
+    {
+        "name": "P076_Chapter 05_2Listening.mp3",
+        "id": 407101,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407101,
+    }
+  ],
+  "code": 200
+}
+const detail407102 = 
+{
+  "songs": [
+    {
+        "name": "P078_Chapter 05_Pronunciation.mp3",
+        "id": 407102,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407102,
+    }
+  ],
+  "code": 200
+}
+const detail407103 = 
+{
+  "songs": [
+    {
+        "name": "P079_Side by Side Gazette 02_Feature Article.mp3",
+        "id": 407103,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407103,
+    }
+  ],
+  "code": 200
+}
+const detail407104 = 
+{
+  "songs": [
+    {
+        "name": "P080_Side by Side Gazette 02_Around the World.mp3",
+        "id": 407104,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407104,
+    }
+  ],
+  "code": 200
+}
+const detail407105 = 
+{
+  "songs": [
+    {
+        "name": "P081_Side by Side Gazette 02_1Interview.mp3",
+        "id": 407105,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407105,
+    }
+  ],
+  "code": 200
+}
+const detail407106 = 
+{
+  "songs": [
+    {
+        "name": "P081_Side by Side Gazette 02_2Fun With Idioms.mp3",
+        "id": 407106,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407106,
+    }
+  ],
+  "code": 200
+}
+const detail407107 = 
+{
+  "songs": [
+    {
+        "name": "P082_Side by Side Gazette 02_1We've Got Mail!.mp3",
+        "id": 407107,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407107,
+    }
+  ],
+  "code": 200
+}
+const detail407108 = 
+{
+  "songs": [
+    {
+        "name": "P082_Side by Side Gazette 02_2Global Exchange.mp3",
+        "id": 407108,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407108,
+    }
+  ],
+  "code": 200
+}
+const detail407109 = 
+{
+  "songs": [
+    {
+        "name": "P082_Side by Side Gazette 02_3Listening.mp3",
+        "id": 407109,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407109,
+    }
+  ],
+  "code": 200
+}
+const detail407110 = 
+{
+  "songs": [
+    {
+        "name": "P083_Chapter 06_Vocabulary Preview.mp3",
+        "id": 407110,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407110,
+    }
+  ],
+  "code": 200
+}
+const detail407111 = 
+{
+  "songs": [
+    {
+        "name": "P084_Chapter 06_1Model Conversation.mp3",
+        "id": 407111,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407111,
+    }
+  ],
+  "code": 200
+}
+const detail407112 = 
+{
+  "songs": [
+    {
+        "name": "P084_Chapter 06_2Exercises.mp3",
+        "id": 407112,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407112,
+    }
+  ],
+  "code": 200
+}
+const detail407113 = 
+{
+  "songs": [
+    {
+        "name": "P086_Chapter 06_1Model Conversation.mp3",
+        "id": 407113,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407113,
+    }
+  ],
+  "code": 200
+}
+const detail407114 = 
+{
+  "songs": [
+    {
+        "name": "P086_Chapter 06_2Exercises.mp3",
+        "id": 407114,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407114,
+    }
+  ],
+  "code": 200
+}
+const detail407115 = 
+{
+  "songs": [
+    {
+        "name": "P086_Chapter 06_3How to Say it!.mp3",
+        "id": 407115,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407115,
+    }
+  ],
+  "code": 200
+}
+const detail407116 = 
+{
+  "songs": [
+    {
+        "name": "P087_Chapter 06_1Model Conversations.mp3",
+        "id": 407116,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407116,
+    }
+  ],
+  "code": 200
+}
+const detail407117 = 
+{
+  "songs": [
+    {
+        "name": "P087_Chapter 06_2Exercises.mp3",
+        "id": 407117,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407117,
+    }
+  ],
+  "code": 200
+}
+const detail407118 = 
+{
+  "songs": [
+    {
+        "name": "P088_Chapter 06_Reading.mp3",
+        "id": 407118,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407118,
+    }
+  ],
+  "code": 200
+}
+const detail407119 = 
+{
+  "songs": [
+    {
+        "name": "P089_Chapter 06_1Model Conversation.mp3",
+        "id": 407119,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407119,
+    }
+  ],
+  "code": 200
+}
+const detail407120 = 
+{
+  "songs": [
+    {
+        "name": "P089_Chapter 06_2Exercises.mp3",
+        "id": 407120,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407120,
+    }
+  ],
+  "code": 200
+}
+const detail407121 = 
+{
+  "songs": [
+    {
+        "name": "P090_Chapter 06_Model Conversations.mp3",
+        "id": 407121,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407121,
+    }
+  ],
+  "code": 200
+}
+const detail407122 = 
+{
+  "songs": [
+    {
+        "name": "P091_Chapter 06_Exercises.mp3",
+        "id": 407122,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407122,
+    }
+  ],
+  "code": 200
+}
+const detail407123 = 
+{
+  "songs": [
+    {
+        "name": "P092_Chapter 06_Reading.mp3",
+        "id": 407123,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407123,
+    }
+  ],
+  "code": 200
+}
+const detail407124 = 
+{
+  "songs": [
+    {
+        "name": "P093_Chapter 06_1Reading.mp3",
+        "id": 407124,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407124,
+    }
+  ],
+  "code": 200
+}
+const detail407125 = 
+{
+  "songs": [
+    {
+        "name": "P093_Chapter 06_2Listening.mp3",
+        "id": 407125,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407125,
+    }
+  ],
+  "code": 200
+}
+const detail407126 = 
+{
+  "songs": [
+    {
+        "name": "P094_Chapter 06_Pronunciation.mp3",
+        "id": 407126,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407126,
+    }
+  ],
+  "code": 200
+}
+const detail407127 = 
+{
+  "songs": [
+    {
+        "name": "P095_Chapter 07_Vocabulary Preview.mp3",
+        "id": 407127,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407127,
+    }
+  ],
+  "code": 200
+}
+const detail407128 = 
+{
+  "songs": [
+    {
+        "name": "P096_Chapter 07_1Model Conversations.mp3",
+        "id": 407128,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407128,
+    }
+  ],
+  "code": 200
+}
+const detail407129 = 
+{
+  "songs": [
+    {
+        "name": "P096_Chapter 07_2Exercises.mp3",
+        "id": 407129,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407129,
+    }
+  ],
+  "code": 200
+}
+const detail407130 = 
+{
+  "songs": [
+    {
+        "name": "P098_Chapter 07_1Model Conversation.mp3",
+        "id": 407130,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407130,
+    }
+  ],
+  "code": 200
+}
+const detail407131 = 
+{
+  "songs": [
+    {
+        "name": "P098_Chapter 07_2Exercises.mp3",
+        "id": 407131,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407131,
+    }
+  ],
+  "code": 200
+}
+const detail407132 = 
+{
+  "songs": [
+    {
+        "name": "P100_Chapter 07_Reading.mp3",
+        "id": 407132,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407132,
+    }
+  ],
+  "code": 200
+}
+const detail407133 = 
+{
+  "songs": [
+    {
+        "name": "P101_Chapter 07_Reading.mp3",
+        "id": 407133,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407133,
+    }
+  ],
+  "code": 200
+}
+const detail407134 = 
+{
+  "songs": [
+    {
+        "name": "P102_Chapter 07_1Model Conversations.mp3",
+        "id": 407134,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407134,
+    }
+  ],
+  "code": 200
+}
+const detail407135 = 
+{
+  "songs": [
+    {
+        "name": "P102_Chapter 07_2Exercises.mp3",
+        "id": 407135,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407135,
+    }
+  ],
+  "code": 200
+}
+const detail407136 = 
+{
+  "songs": [
+    {
+        "name": "P103_Chapter 07_How to Say it!.mp3",
+        "id": 407136,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407136,
+    }
+  ],
+  "code": 200
+}
+const detail407137 = 
+{
+  "songs": [
+    {
+        "name": "P104_Chapter 07_Reading.mp3",
+        "id": 407137,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407137,
+    }
+  ],
+  "code": 200
+}
+const detail407138 = 
+{
+  "songs": [
+    {
+        "name": "P105_Chapter 07_Listening.mp3",
+        "id": 407138,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407138,
+    }
+  ],
+  "code": 200
+}
+const detail407139 = 
+{
+  "songs": [
+    {
+        "name": "P106_Chapter 07_On Your Own.mp3",
+        "id": 407139,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407139,
+    }
+  ],
+  "code": 200
+}
+const detail407140 = 
+{
+  "songs": [
+    {
+        "name": "P108_Chapter 07_Pronunciation.mp3",
+        "id": 407140,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407140,
+    }
+  ],
+  "code": 200
+}
+const detail407141 = 
+{
+  "songs": [
+    {
+        "name": "P109_Chapter 08_Vocabulary Preview.mp3",
+        "id": 407141,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407141,
+    }
+  ],
+  "code": 200
+}
+const detail407142 = 
+{
+  "songs": [
+    {
+        "name": "P110_Chapter 08_1Model Conversation.mp3",
+        "id": 407142,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407142,
+    }
+  ],
+  "code": 200
+}
+const detail407143 = 
+{
+  "songs": [
+    {
+        "name": "P110_Chapter 08_2Exercises.mp3",
+        "id": 407143,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407143,
+    }
+  ],
+  "code": 200
+}
+const detail407144 = 
+{
+  "songs": [
+    {
+        "name": "P112_Chapter 08_1Model Conversation.mp3",
+        "id": 407144,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407144,
+    }
+  ],
+  "code": 200
+}
+const detail407145 = 
+{
+  "songs": [
+    {
+        "name": "P112_Chapter 08_2Exercises.mp3",
+        "id": 407145,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407145,
+    }
+  ],
+  "code": 200
+}
+const detail407146 = 
+{
+  "songs": [
+    {
+        "name": "P113_Chapter 08_How to Say it!.mp3",
+        "id": 407146,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407146,
+    }
+  ],
+  "code": 200
+}
+const detail407147 = 
+{
+  "songs": [
+    {
+        "name": "P114_Chapter 08_Reading.mp3",
+        "id": 407147,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407147,
+    }
+  ],
+  "code": 200
+}
+const detail407148 = 
+{
+  "songs": [
+    {
+        "name": "P115_Chapter 08_Listening.mp3",
+        "id": 407148,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407148,
+    }
+  ],
+  "code": 200
+}
+const detail407149 = 
+{
+  "songs": [
+    {
+        "name": "P116_Chapter 08_Model Conversations.mp3",
+        "id": 407149,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407149,
+    }
+  ],
+  "code": 200
+}
+const detail407150 = 
+{
+  "songs": [
+    {
+        "name": "P117_Chapter 08_Exercises.mp3",
+        "id": 407150,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407150,
+    }
+  ],
+  "code": 200
+}
+const detail407151 = 
+{
+  "songs": [
+    {
+        "name": "P119_Chapter 08_Reading.mp3",
+        "id": 407151,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407151,
+    }
+  ],
+  "code": 200
+}
+const detail407152 = 
+{
+  "songs": [
+    {
+        "name": "P120_Chapter 08_Model Conversations.mp3",
+        "id": 407152,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407152,
+    }
+  ],
+  "code": 200
+}
+const detail407153 = 
+{
+  "songs": [
+    {
+        "name": "P121_Chapter 08_Exercises.mp3",
+        "id": 407153,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407153,
+    }
+  ],
+  "code": 200
+}
+const detail407154 = 
+{
+  "songs": [
+    {
+        "name": "P122_Chapter 08_Reading.mp3",
+        "id": 407154,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407154,
+    }
+  ],
+  "code": 200
+}
+const detail407155 = 
+{
+  "songs": [
+    {
+        "name": "P123_Chapter 08_Pronunciation.mp3",
+        "id": 407155,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407155,
+    }
+  ],
+  "code": 200
+}
+const detail407156 = 
+{
+  "songs": [
+    {
+        "name": "P125_Side by Side Gazette 03_Feature Article.mp3",
+        "id": 407156,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407156,
+    }
+  ],
+  "code": 200
+}
+const detail407157 = 
+{
+  "songs": [
+    {
+        "name": "P126_Side by Side Gazette 03_1 2nd Article.mp3",
+        "id": 407157,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407157,
+    }
+  ],
+  "code": 200
+}
+const detail407158 = 
+{
+  "songs": [
+    {
+        "name": "P126_Side by Side Gazette 03_2 Around the World.mp3",
+        "id": 407158,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407158,
+    }
+  ],
+  "code": 200
+}
+const detail407159 = 
+{
+  "songs": [
+    {
+        "name": "P127_Side by Side Gazette 03_1Interview.mp3",
+        "id": 407159,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407159,
+    }
+  ],
+  "code": 200
+}
+const detail407160 = 
+{
+  "songs": [
+    {
+        "name": "P127_Side by Side Gazette 03_2Fun With Idioms.mp3",
+        "id": 407160,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407160,
+    }
+  ],
+  "code": 200
+}
+const detail407161 = 
+{
+  "songs": [
+    {
+        "name": "P128_Side by Side Gazette 03_1We\'ve Got Mail!.mp3",
+        "id": 407161,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407161,
+    }
+  ],
+  "code": 200
+}
+const detail407162 = 
+{
+  "songs": [
+    {
+        "name": "P128_Side by Side Gazette 03_2Global Exchange.mp3",
+        "id": 407162,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407162,
+    }
+  ],
+  "code": 200
+}
+const detail407163 = 
+{
+  "songs": [
+    {
+        "name": "P128_Side by Side Gazette 03_3Listening.mp3",
+        "id": 407163,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407163,
+    }
+  ],
+  "code": 200
+}
+const detail407164 = 
+{
+  "songs": [
+    {
+        "name": "P129_Chapter 09_Vocabulary Preview.mp3",
+        "id": 407164,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407164,
+    }
+  ],
+  "code": 200
+}
+const detail407165 = 
+{
+  "songs": [
+    {
+        "name": "P130_Chapter 09_1Model Conversation.mp3",
+        "id": 407165,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407165,
+    }
+  ],
+  "code": 200
+}
+const detail407166 = 
+{
+  "songs": [
+    {
+        "name": "P130_Chapter 09_2Exercises.mp3",
+        "id": 407166,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407166,
+    }
+  ],
+  "code": 200
+}
+const detail407167 = 
+{
+  "songs": [
+    {
+        "name": "P131_Chapter 09_1Model Conversation.mp3",
+        "id": 407167,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407167,
+    }
+  ],
+  "code": 200
+}
+const detail407168 = 
+{
+  "songs": [
+    {
+        "name": "P131_Chapter 09_2Exercises.mp3",
+        "id": 407168,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407168,
+    }
+  ],
+  "code": 200
+}
+const detail407169 = 
+{
+  "songs": [
+    {
+        "name": "P132_Chapter 09_1Model Conversations.mp3",
+        "id": 407169,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407169,
+    }
+  ],
+  "code": 200
+}
+const detail407170 = 
+{
+  "songs": [
+    {
+        "name": "P132_Chapter 09_2Exercises.mp3",
+        "id": 407170,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407170,
+    }
+  ],
+  "code": 200
+}
+const detail407171 = 
+{
+  "songs": [
+    {
+        "name": "P133_Chapter 09_How to Say it!.mp3",
+        "id": 407171,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407171,
+    }
+  ],
+  "code": 200
+}
+const detail407172 = 
+{
+  "songs": [
+    {
+        "name": "P134_Chapter 09_1Model Conversations.mp3",
+        "id": 407172,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407172,
+    }
+  ],
+  "code": 200
+}
+const detail407173 = 
+{
+  "songs": [
+    {
+        "name": "P134_Chapter 09_2Exercises.mp3",
+        "id": 407173,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407173,
+    }
+  ],
+  "code": 200
+}
+const detail407174 = 
+{
+  "songs": [
+    {
+        "name": "P136_Chapter 09_1Model Conversations.mp3",
+        "id": 407174,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407174,
+    }
+  ],
+  "code": 200
+}
+const detail407175 = 
+{
+  "songs": [
+    {
+        "name": "P136_Chapter 09_2Exercises.mp3",
+        "id": 407175,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407175,
+    }
+  ],
+  "code": 200
+}
+const detail407176 = 
+{
+  "songs": [
+    {
+        "name": "P138_Chapter 09_Reading.mp3",
+        "id": 407176,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407176,
+    }
+  ],
+  "code": 200
+}
+const detail407177 = 
+{
+  "songs": [
+    {
+        "name": "P140_Chapter 09_Reading.mp3",
+        "id": 407177,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407177,
+    }
+  ],
+  "code": 200
+}
+const detail407178 = 
+{
+  "songs": [
+    {
+        "name": "P141_Chapter 09_1Listening.mp3",
+        "id": 407178,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407178,
+    }
+  ],
+  "code": 200
+}
+const detail407179 = 
+{
+  "songs": [
+    {
+        "name": "P141_Chapter 09_2In Your Own Words.mp3",
+        "id": 407179,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407179,
+    }
+  ],
+  "code": 200
+}
+const detail407180 = 
+{
+  "songs": [
+    {
+        "name": "P142_Chapter 09_Interactions.mp3",
+        "id": 407180,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407180,
+    }
+  ],
+  "code": 200
+}
+const detail407181 = 
+{
+  "songs": [
+    {
+        "name": "P144_Chapter 09_Pronunciation.mp3",
+        "id": 407181,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407181,
+    }
+  ],
+  "code": 200
+}
+const detail407182 = 
+{
+  "songs": [
+    {
+        "name": "P145_Chapter 10_Vocabulary Preview.mp3",
+        "id": 407182,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407182,
+    }
+  ],
+  "code": 200
+}
+const detail407183 = 
+{
+  "songs": [
+    {
+        "name": "P146_Chapter 10_Model Conversation.mp3",
+        "id": 407183,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407183,
+    }
+  ],
+  "code": 200
+}
+const detail407184 = 
+{
+  "songs": [
+    {
+        "name": "P147_Chapter 10_1Exercises.mp3",
+        "id": 407184,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407184,
+    }
+  ],
+  "code": 200
+}
+const detail407185 = 
+{
+  "songs": [
+    {
+        "name": "P147_Chapter 10_2How to Say it!.mp3",
+        "id": 407185,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407185,
+    }
+  ],
+  "code": 200
+}
+const detail407186 = 
+{
+  "songs": [
+    {
+        "name": "P148_Chapter 10_1Model Conversation.mp3",
+        "id": 407186,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407186,
+    }
+  ],
+  "code": 200
+}
+const detail407187 = 
+{
+  "songs": [
+    {
+        "name": "P148_Chapter 10_2Exercises.mp3",
+        "id": 407187,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407187,
+    }
+  ],
+  "code": 200
+}
+const detail407188 = 
+{
+  "songs": [
+    {
+        "name": "P150_Chapter 10_Reading.mp3",
+        "id": 407188,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407188,
+    }
+  ],
+  "code": 200
+}
+const detail407189 = 
+{
+  "songs": [
+    {
+        "name": "P151_Chapter 10_Listening.mp3",
+        "id": 407189,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407189,
+    }
+  ],
+  "code": 200
+}
+const detail407190 = 
+{
+  "songs": [
+    {
+        "name": "P152_Chapter 10_1Model Conversation.mp3",
+        "id": 407190,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407190,
+    }
+  ],
+  "code": 200
+}
+const detail407191 = 
+{
+  "songs": [
+    {
+        "name": "P152_Chapter 10_2Exercises.mp3",
+        "id": 407191,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407191,
+    }
+  ],
+  "code": 200
+}
+const detail407192 = 
+{
+  "songs": [
+    {
+        "name": "P154_Chapter 10_Model Conversation.mp3",
+        "id": 407192,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407192,
+    }
+  ],
+  "code": 200
+}
+const detail407193 = 
+{
+  "songs": [
+    {
+        "name": "P155_Chapter 10_Exercises.mp3",
+        "id": 407193,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407193,
+    }
+  ],
+  "code": 200
+}
+const detail407194 = 
+{
+  "songs": [
+    {
+        "name": "P156_Chapter 10_Reading.mp3",
+        "id": 407194,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407194,
+    }
+  ],
+  "code": 200
+}
+const detail407195 = 
+{
+  "songs": [
+    {
+        "name": "P158_Chapter 10_Pronunciation.mp3",
+        "id": 407195,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407195,
+    }
+  ],
+  "code": 200
+}
+const detail407196 = 
+{
+  "songs": [
+    {
+        "name": "P159_Side by Side Gazette 04_Feature Article.mp3",
+        "id": 407196,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407196,
+    }
+  ],
+  "code": 200
+}
+const detail407197 = 
+{
+  "songs": [
+    {
+        "name": "P160_Side by Side Gazette 04_Around the World.mp3",
+        "id": 407197,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407197,
+    }
+  ],
+  "code": 200
+}
+const detail407198 = 
+{
+  "songs": [
+    {
+        "name": "P161_Side by Side Gazette 04_1Interview.mp3",
+        "id": 407198,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407198,
+    }
+  ],
+  "code": 200
+}
+const detail407199 = 
+{
+  "songs": [
+    {
+        "name": "P161_Side by Side Gazette 04_2Fun With Idioms.mp3",
+        "id": 407199,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407199,
+    }
+  ],
+  "code": 200
+}
+const detail407200 = 
+{
+  "songs": [
+    {
+        "name": "P162_Side by Side Gazette 04_1We've Got Mail!.mp3",
+        "id": 407200,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407200,
+    }
+  ],
+  "code": 200
+}
+const detail407201 = 
+{
+  "songs": [
+    {
+        "name": "P162_Side by Side Gazette 04_2Listening.mp3",
+        "id": 407201,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407201,
+    }
+  ],
+  "code": 200
+}
+const detail407202 = 
+{
+  "songs": [
+    {
+        "name": "P162_Side by Side Gazette 04_3Global Exchange.mp3",
+        "id": 407202,
+        "ar": [
+          {
+             "id": 407,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book407",
+          "name": "国际朗文英语第4册",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 407202,
+    }
+  ],
+  "code": 200
+}
+
+const detail408001 = 
+{
+  "songs": [
+    {
+        "name": "A001Introduction%20.MP3",
+        "id": 408001,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408001,
+    }
+  ],
+  "code": 200
+}
+const detail408002 = 
+{
+  "songs": [
+    {
+        "name": "P003_Chapter%2001_Exercise%20C%20Listening.mp3",
+        "id": 408002,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408002,
+    }
+  ],
+  "code": 200
+}
+const detail408003 = 
+{
+  "songs": [
+    {
+        "name": "P005_Chapter%2001_Exercise%20E%20GrammarRap.mp3",
+        "id": 408003,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408003,
+    }
+  ],
+  "code": 200
+}
+const detail408004 = 
+{
+  "songs": [
+    {
+        "name": "P006_Chapter%2001_Exercise%20G%20Listening.mp3",
+        "id": 408004,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408004,
+    }
+  ],
+  "code": 200
+}
+const detail408005 = 
+{
+  "songs": [
+    {
+        "name": "P008_Chapter%2001_Exercise%20K%20Listening.mp3",
+        "id": 408005,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408005,
+    }
+  ],
+  "code": 200
+}
+const detail408006 = 
+{
+  "songs": [
+    {
+        "name": "P016_Chapter%2001_Exercise%20R%20GrammarRap.mp3",
+        "id": 408006,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408006,
+    }
+  ],
+  "code": 200
+}
+const detail408007 = 
+{
+  "songs": [
+    {
+        "name": "P016_Chapter%2001_Exercise%20S%20Listening.mp3",
+        "id": 408007,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408007,
+    }
+  ],
+  "code": 200
+}
+const detail408008 = 
+{
+  "songs": [
+    {
+        "name": "P023_Chapter%2002_Exercise%20G%20GrammarRap.mp3",
+        "id": 408008,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408008,
+    }
+  ],
+  "code": 200
+}
+const detail408009 = 
+{
+  "songs": [
+    {
+        "name": "P028_Chapter%2002_Exercise%20K%20GrammarRap.mp3",
+        "id": 408009,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408009,
+    }
+  ],
+  "code": 200
+}
+const detail408010 = 
+{
+  "songs": [
+    {
+        "name": "P029_Chapter%2002_Exercise%20M%20Listening.mp3",
+        "id": 408010,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408010,
+    }
+  ],
+  "code": 200
+}
+const detail408011 = 
+{
+  "songs": [
+    {
+        "name": "P030_Chapter%2002_Exercise%20O%20Listening.mp3",
+        "id": 408011,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408011,
+    }
+  ],
+  "code": 200
+}
+const detail408012 = 
+{
+  "songs": [
+    {
+        "name": "P031_Chapter%2002_Exercise%20P%20Have%20you%20Heard.mp3",
+        "id": 408012,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408012,
+    }
+  ],
+  "code": 200
+}
+const detail408013 = 
+{
+  "songs": [
+    {
+        "name": "P034_Chapter%2003_Exercise%20C%20GrammarRap.mp3",
+        "id": 408013,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408013,
+    }
+  ],
+  "code": 200
+}
+const detail408014 = 
+{
+  "songs": [
+    {
+        "name": "P035_Chapter%2003_Exercise%20E%20Listening.mp3",
+        "id": 408014,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408014,
+    }
+  ],
+  "code": 200
+}
+const detail408015 = 
+{
+  "songs": [
+    {
+        "name": "P039_Chapter%2003_Exercise%20L%20Listening.mp3",
+        "id": 408015,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408015,
+    }
+  ],
+  "code": 200
+}
+const detail408016 = 
+{
+  "songs": [
+    {
+        "name": "P041_Chapter%2003_Exercise%20O%20GrammarRap.mp3",
+        "id": 408016,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408016,
+    }
+  ],
+  "code": 200
+}
+const detail408017 = 
+{
+  "songs": [
+    {
+        "name": "P043_Chapter%2003_Exercise%20R%20Listening.mp3",
+        "id": 408017,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408017,
+    }
+  ],
+  "code": 200
+}
+const detail408018 = 
+{
+  "songs": [
+    {
+        "name": "P045_Check-Up%20Test%20Chapters%2001-03_Exercise%20D%20Listening.mp3",
+        "id": 408018,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408018,
+    }
+  ],
+  "code": 200
+}
+const detail408019 = 
+{
+  "songs": [
+    {
+        "name": "P049_Chapter%2004_Exercise%20E%20Listening.mp3",
+        "id": 408019,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408019,
+    }
+  ],
+  "code": 200
+}
+const detail408020 = 
+{
+  "songs": [
+    {
+        "name": "P049_Chapter%2004_Exercise%20F%20GrammarRap.mp3",
+        "id": 408020,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408020,
+    }
+  ],
+  "code": 200
+}
+const detail408021 = 
+{
+  "songs": [
+    {
+        "name": "P052_Chapter%2004_Exercise%20H%20GrammarRap.mp3",
+        "id": 408021,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408021,
+    }
+  ],
+  "code": 200
+}
+const detail408022 = 
+{
+  "songs": [
+    {
+        "name": "P053_Chapter%2004_Exercise%20J%20Listening.mp3",
+        "id": 408022,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408022,
+    }
+  ],
+  "code": 200
+}
+const detail408023 = 
+{
+  "songs": [
+    {
+        "name": "P053_Chapter%2004_Exercise%20K%20GrammarRap.mp3",
+        "id": 408023,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408023,
+    }
+  ],
+  "code": 200
+}
+const detail408024 = 
+{
+  "songs": [
+    {
+        "name": "P058_Chapter%2005_Exercise%20D%20Listening.mp3",
+        "id": 408024,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408024,
+    }
+  ],
+  "code": 200
+}
+const detail408025 = 
+{
+  "songs": [
+    {
+        "name": "P059_Chapter%2005_Exercise%20E%20GrammarRap.mp3",
+        "id": 408025,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408025,
+    }
+  ],
+  "code": 200
+}
+const detail408026 = 
+{
+  "songs": [
+    {
+        "name": "P063_Chapter%2005_Exercise%20J%20Listening.mp3",
+        "id": 408026,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408026,
+    }
+  ],
+  "code": 200
+}
+const detail408027 = 
+{
+  "songs": [
+    {
+        "name": "P066_Chapter%2005_Exercise%20N%20Listening.mp3",
+        "id": 408027,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408027,
+    }
+  ],
+  "code": 200
+}
+const detail408028 = 
+{
+  "songs": [
+    {
+        "name": "P073_Chapter%2005_Exercise%20U%20GrammarRap.mp3",
+        "id": 408028,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408028,
+    }
+  ],
+  "code": 200
+}
+const detail408029 = 
+{
+  "songs": [
+    {
+        "name": "P073_Chapter%2005_Exercise%20V%20GrammarRap.mp3",
+        "id": 408029,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408029,
+    }
+  ],
+  "code": 200
+}
+const detail408030 = 
+{
+  "songs": [
+    {
+        "name": "P074_Chapter%2005_Exercise%20W%20Listening.mp3",
+        "id": 408030,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408030,
+    }
+  ],
+  "code": 200
+}
+const detail408031 = 
+{
+  "songs": [
+    {
+        "name": "P077_Check-Up%20Test%20Chapters%2004-05_Exercise%20D%20Listening.mp3",
+        "id": 408031,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408031,
+    }
+  ],
+  "code": 200
+}
+const detail408032 = 
+{
+  "songs": [
+    {
+        "name": "P080_Chapter%2006_Exercise%20E%20Listening.mp3",
+        "id": 408032,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408032,
+    }
+  ],
+  "code": 200
+}
+const detail408033 = 
+{
+  "songs": [
+    {
+        "name": "P082_Chapter%2006_Exercise%20G%20GrammarRap.mp3",
+        "id": 408033,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408033,
+    }
+  ],
+  "code": 200
+}
+const detail408034 = 
+{
+  "songs": [
+    {
+        "name": "P083_Chapter%2006_Exercise%20I%20Listening.mp3",
+        "id": 408034,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408034,
+    }
+  ],
+  "code": 200
+}
+const detail408035 = 
+{
+  "songs": [
+    {
+        "name": "P086_Chapter%2006_Exercise%20N%20Listening.mp3",
+        "id": 408035,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408035,
+    }
+  ],
+  "code": 200
+}
+const detail408036 = 
+{
+  "songs": [
+    {
+        "name": "P087_Chapter%2006_Exercise%20P%20GrammarRap.mp3",
+        "id": 408036,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408036,
+    }
+  ],
+  "code": 200
+}
+const detail408037 = 
+{
+  "songs": [
+    {
+        "name": "P089_Chapter%2006_Exercise%20R%20Sound%20It%20Out!.mp3",
+        "id": 408037,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408037,
+    }
+  ],
+  "code": 200
+}
+const detail408038 = 
+{
+  "songs": [
+    {
+        "name": "P093_Chapter%2007_Exercise%20E%20Listening.mp3",
+        "id": 408038,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408038,
+    }
+  ],
+  "code": 200
+}
+const detail408039 = 
+{
+  "songs": [
+    {
+        "name": "P096_Chapter%2007_Exercise%20J%20GrammarRap.mp3",
+        "id": 408039,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408039,
+    }
+  ],
+  "code": 200
+}
+const detail408040 = 
+{
+  "songs": [
+    {
+        "name": "P099_Chapter%2007_Exercise%20N%20GrammarRap.mp3",
+        "id": 408040,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408040,
+    }
+  ],
+  "code": 200
+}
+const detail408041 = 
+{
+  "songs": [
+    {
+        "name": "P102_Chapter%2007_Exercise%20R%20Listening.mp3",
+        "id": 408041,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408041,
+    }
+  ],
+  "code": 200
+}
+const detail408042 = 
+{
+  "songs": [
+    {
+        "name": "P102_Chapter%2007_Exercise%20S%20Listening.mp3",
+        "id": 408042,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408042,
+    }
+  ],
+  "code": 200
+}
+const detail408043 = 
+{
+  "songs": [
+    {
+        "name": "P102_Chapter%2007_Exercise%20T%20Listening.mp3",
+        "id": 408043,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408043,
+    }
+  ],
+  "code": 200
+}
+const detail408044 = 
+{
+  "songs": [
+    {
+        "name": "P103_Chapter%2007_Exercise%20U%20Have%20You%20Heard.mp3",
+        "id": 408044,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408044,
+    }
+  ],
+  "code": 200
+}
+const detail408045 = 
+{
+  "songs": [
+    {
+        "name": "P107_Chapter%2008_Exercise%20C%20GrammarRap.mp3",
+        "id": 408045,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408045,
+    }
+  ],
+  "code": 200
+}
+const detail408046 = 
+{
+  "songs": [
+    {
+        "name": "P108_Chapter%2008_Exercise%20E%20Listening.mp3",
+        "id": 408046,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408046,
+    }
+  ],
+  "code": 200
+}
+const detail408047 = 
+{
+  "songs": [
+    {
+        "name": "P110_Chapter%2008_Exercise%20H%20Listening.mp3",
+        "id": 408047,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408047,
+    }
+  ],
+  "code": 200
+}
+const detail408048 = 
+{
+  "songs": [
+    {
+        "name": "P113_Chapter%2008_Exercise%20J%20GrammarRap.mp3",
+        "id": 408048,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408048,
+    }
+  ],
+  "code": 200
+}
+const detail408049 = 
+{
+  "songs": [
+    {
+        "name": "P118_Chapter%2008_Exercise%20O%20GrammarRap.mp3",
+        "id": 408049,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408049,
+    }
+  ],
+  "code": 200
+}
+const detail408050 = 
+{
+  "songs": [
+    {
+        "name": "P120_Chapter%2008_Exercise%20Q%20Listening.mp3",
+        "id": 408050,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408050,
+    }
+  ],
+  "code": 200
+}
+const detail408051 = 
+{
+  "songs": [
+    {
+        "name": "P123_Check-Up%20Test%20Chapters%2007-08_Exercise%20D%20Listening.mp3",
+        "id": 408051,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408051,
+    }
+  ],
+  "code": 200
+}
+const detail408052 = 
+{
+  "songs": [
+    {
+        "name": "P129_Chapter%2009_Exercise%20G%20Listening.mp3",
+        "id": 408052,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408052,
+    }
+  ],
+  "code": 200
+}
+const detail408053 = 
+{
+  "songs": [
+    {
+        "name": "P130_Chapter%2009_Exercise%20I%20GrammarRap.mp3",
+        "id": 408053,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408053,
+    }
+  ],
+  "code": 200
+}
+const detail408054 = 
+{
+  "songs": [
+    {
+        "name": "P132_Chapter%2009_Exercise%20L%20Listening.mp3",
+        "id": 408054,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408054,
+    }
+  ],
+  "code": 200
+}
+const detail408055 = 
+{
+  "songs": [
+    {
+        "name": "P137_Chapter%2009_Exercise%20P%20Listening.mp3",
+        "id": 408055,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408055,
+    }
+  ],
+  "code": 200
+}
+const detail408056 = 
+{
+  "songs": [
+    {
+        "name": "P141_Chapter%2010_Exercise%20D%20GrammarRap.mp3",
+        "id": 408056,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408056,
+    }
+  ],
+  "code": 200
+}
+const detail408057 = 
+{
+  "songs": [
+    {
+        "name": "P143_Chapter%2010_Exercise%20F%20GrammarRap.mp3",
+        "id": 408057,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408057,
+    }
+  ],
+  "code": 200
+}
+const detail408058 = 
+{
+  "songs": [
+    {
+        "name": "P145_Chapter%2010_Exercise%20J%20Listening.mp3",
+        "id": 408058,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408058,
+    }
+  ],
+  "code": 200
+}
+const detail408059 = 
+{
+  "songs": [
+    {
+        "name": "P147_Chapter%2010_Exercise%20M%20GrammarRap.mp3",
+        "id": 408059,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408059,
+    }
+  ],
+  "code": 200
+}
+const detail408060 = 
+{
+  "songs": [
+    {
+        "name": "P150_Chapter%2010_Exercise%20P%20Listening.mp3",
+        "id": 408060,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408060,
+    }
+  ],
+  "code": 200
+}
+const detail408061 = 
+{
+  "songs": [
+    {
+        "name": "P151_Chapter%2010_Exercise%20R%20Listening.mp3",
+        "id": 408061,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408061,
+    }
+  ],
+  "code": 200
+}
+const detail408062 = 
+{
+  "songs": [
+    {
+        "name": "P151_Chapter%2010_Exercise%20S%20Have%20You%20Heard.mp3",
+        "id": 408062,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408062,
+    }
+  ],
+  "code": 200
+}
+const detail408063 = 
+{
+  "songs": [
+    {
+        "name": "P153_Check-Up%20Test%20Chapters%2009-10_Exercise%20E%20Listening.mp3",
+        "id": 408063,
+        "ar": [
+          {
+             "id": 408,
+             "name": "SBS",
+          }
+        ],
+        "al": {
+          "id": "book408",
+          "name": "国际朗文英语第4册练习",
+          "picUrl": "http://susanenglish-1254112734.file.myqcloud.com/images/sbs4.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 408063,
+    }
+  ],
+  "code": 200
+}
+
+
+
 const url403001 = 
 {
   "data": [
@@ -46597,6 +58637,2658 @@ const url406047 =
   "code": 200
 }
 
+const url407001 = 
+{
+  "data": [
+    {
+        "id": 407001,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/A001Introduction%20.MP3",
+    }
+],
+  "code": 200
+}
+const url407002 = 
+{
+  "data": [
+    {
+        "id": 407002,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P001_Chapter%2001_Vocabulary%20Preview.mp3",
+    }
+],
+  "code": 200
+}
+const url407003 = 
+{
+  "data": [
+    {
+        "id": 407003,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P002_Chapter%2001_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407004 = 
+{
+  "data": [
+    {
+        "id": 407004,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P002_Chapter%2001_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407005 = 
+{
+  "data": [
+    {
+        "id": 407005,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P003_Chapter%2001_1Model%20Conversations.mp3",
+    }
+],
+  "code": 200
+}
+const url407006 = 
+{
+  "data": [
+    {
+        "id": 407006,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P003_Chapter%2001_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407007 = 
+{
+  "data": [
+    {
+        "id": 407007,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P004_Chapter%2001_1Model%20Conversations.mp3",
+    }
+],
+  "code": 200
+}
+const url407008 = 
+{
+  "data": [
+    {
+        "id": 407008,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P004_Chapter%2001_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407009 = 
+{
+  "data": [
+    {
+        "id": 407009,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P005_Chapter%2001_1Model%20Conversations.mp3",
+    }
+],
+  "code": 200
+}
+const url407010 = 
+{
+  "data": [
+    {
+        "id": 407010,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P005_Chapter%2001_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407011 = 
+{
+  "data": [
+    {
+        "id": 407011,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P006_Chapter%2001_1Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407012 = 
+{
+  "data": [
+    {
+        "id": 407012,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P006_Chapter%2001_2Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url407013 = 
+{
+  "data": [
+    {
+        "id": 407013,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P007_Chapter%2001_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407014 = 
+{
+  "data": [
+    {
+        "id": 407014,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P007_Chapter%2001_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407015 = 
+{
+  "data": [
+    {
+        "id": 407015,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P008_Chapter%2001_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407016 = 
+{
+  "data": [
+    {
+        "id": 407016,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P008_Chapter%2001_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407017 = 
+{
+  "data": [
+    {
+        "id": 407017,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P009_Chapter%2001_How%20to%20Say%20it!.mp3",
+    }
+],
+  "code": 200
+}
+const url407018 = 
+{
+  "data": [
+    {
+        "id": 407018,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P010_Chapter%2001_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407019 = 
+{
+  "data": [
+    {
+        "id": 407019,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P010_Chapter%2001_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407020 = 
+{
+  "data": [
+    {
+        "id": 407020,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P011_Chapter%2001_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407021 = 
+{
+  "data": [
+    {
+        "id": 407021,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P011_Chapter%2001_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407022 = 
+{
+  "data": [
+    {
+        "id": 407022,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P012_Chapter%2001_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407023 = 
+{
+  "data": [
+    {
+        "id": 407023,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P012_Chapter%2001_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407024 = 
+{
+  "data": [
+    {
+        "id": 407024,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P013_Chapter%2001_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407025 = 
+{
+  "data": [
+    {
+        "id": 407025,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P014_Chapter%2001_Pronunciation.mp3",
+    }
+],
+  "code": 200
+}
+const url407026 = 
+{
+  "data": [
+    {
+        "id": 407026,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P015_Chapter%2002_Vocabulary%20Preview.mp3",
+    }
+],
+  "code": 200
+}
+const url407027 = 
+{
+  "data": [
+    {
+        "id": 407027,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P016_Chapter%2002_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407028 = 
+{
+  "data": [
+    {
+        "id": 407028,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P016_Chapter%2002_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407029 = 
+{
+  "data": [
+    {
+        "id": 407029,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P017_Chapter%2002_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407030 = 
+{
+  "data": [
+    {
+        "id": 407030,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P017_Chapter%2002_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407031 = 
+{
+  "data": [
+    {
+        "id": 407031,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P018_Chapter%2002_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407032 = 
+{
+  "data": [
+    {
+        "id": 407032,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P019_Chapter%2002_Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url407033 = 
+{
+  "data": [
+    {
+        "id": 407033,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P020_Chapter%2002_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407034 = 
+{
+  "data": [
+    {
+        "id": 407034,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P020_Chapter%2002_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407035 = 
+{
+  "data": [
+    {
+        "id": 407035,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P021_Chapter%2002_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407036 = 
+{
+  "data": [
+    {
+        "id": 407036,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P022_Chapter%2002_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407037 = 
+{
+  "data": [
+    {
+        "id": 407037,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P022_Chapter%2002_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407038 = 
+{
+  "data": [
+    {
+        "id": 407038,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P023_Chapter%2002_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407039 = 
+{
+  "data": [
+    {
+        "id": 407039,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P023_Chapter%2002_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407040 = 
+{
+  "data": [
+    {
+        "id": 407040,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P024_Chapter%2002_Model%20Conversations.mp3",
+    }
+],
+  "code": 200
+}
+const url407041 = 
+{
+  "data": [
+    {
+        "id": 407041,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P025_Chapter%2002_Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407042 = 
+{
+  "data": [
+    {
+        "id": 407042,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P026_Chapter%2002_Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407043 = 
+{
+  "data": [
+    {
+        "id": 407043,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P027_Chapter%2002_1Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407044 = 
+{
+  "data": [
+    {
+        "id": 407044,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P027_Chapter%2002_2How%20to%20Say%20it!.mp3",
+    }
+],
+  "code": 200
+}
+const url407045 = 
+{
+  "data": [
+    {
+        "id": 407045,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P028_Chapter%2002_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407046 = 
+{
+  "data": [
+    {
+        "id": 407046,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P030_Chapter%2002_Pronunciation.mp3",
+    }
+],
+  "code": 200
+}
+const url407047 = 
+{
+  "data": [
+    {
+        "id": 407047,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P031_Chapter%2003_Vocabulary%20Preview.mp3",
+    }
+],
+  "code": 200
+}
+const url407048 = 
+{
+  "data": [
+    {
+        "id": 407048,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P032_Chapter%2003_1Model%20Conversations.mp3",
+    }
+],
+  "code": 200
+}
+const url407049 = 
+{
+  "data": [
+    {
+        "id": 407049,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P032_Chapter%2003_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407050 = 
+{
+  "data": [
+    {
+        "id": 407050,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P034_Chapter%2003_1Model%20Conversations.mp3",
+    }
+],
+  "code": 200
+}
+const url407051 = 
+{
+  "data": [
+    {
+        "id": 407051,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P034_Chapter%2003_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407052 = 
+{
+  "data": [
+    {
+        "id": 407052,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P036_Chapter%2003_1Model%20Conversations.mp3",
+    }
+],
+  "code": 200
+}
+const url407053 = 
+{
+  "data": [
+    {
+        "id": 407053,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P036_Chapter%2003_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407054 = 
+{
+  "data": [
+    {
+        "id": 407054,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P037_Chapter%2003_How%20to%20Say%20it!.mp3",
+    }
+],
+  "code": 200
+}
+const url407055 = 
+{
+  "data": [
+    {
+        "id": 407055,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P038_Chapter%2003_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407056 = 
+{
+  "data": [
+    {
+        "id": 407056,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P039_Chapter%2003_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407057 = 
+{
+  "data": [
+    {
+        "id": 407057,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P040_Chapter%2003_Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407058 = 
+{
+  "data": [
+    {
+        "id": 407058,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P041_Chapter%2003_Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407059 = 
+{
+  "data": [
+    {
+        "id": 407059,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P042_Chapter%2003_1Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407060 = 
+{
+  "data": [
+    {
+        "id": 407060,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P042_Chapter%2003_2Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url407061 = 
+{
+  "data": [
+    {
+        "id": 407061,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P044_Chapter%2003_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407062 = 
+{
+  "data": [
+    {
+        "id": 407062,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P046_Chapter%2003_Pronunciation.mp3",
+    }
+],
+  "code": 200
+}
+const url407063 = 
+{
+  "data": [
+    {
+        "id": 407063,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P047_Side%20by%20Side%20Gazette%2001_Feature%20Article.mp3",
+    }
+],
+  "code": 200
+}
+const url407064 = 
+{
+  "data": [
+    {
+        "id": 407064,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P048_Side%20by%20Side%20Gazette%2001_Around%20the%20World.mp3",
+    }
+],
+  "code": 200
+}
+const url407065 = 
+{
+  "data": [
+    {
+        "id": 407065,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P049_Side%20by%20Side%20Gazette%2001_1Interview.mp3",
+    }
+],
+  "code": 200
+}
+const url407066 = 
+{
+  "data": [
+    {
+        "id": 407066,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P049_Side%20by%20Side%20Gazette%2001_2Fun%20With%20Idioms.mp3",
+    }
+],
+  "code": 200
+}
+const url407067 = 
+{
+  "data": [
+    {
+        "id": 407067,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P050_Side%20by%20Side%20Gazette%2001_1We\'ve%20Got%20Mail!.mp3",
+    }
+],
+  "code": 200
+}
+const url407068 = 
+{
+  "data": [
+    {
+        "id": 407068,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P050_Side%20by%20Side%20Gazette%2001_2Global%20Exchange.mp3",
+    }
+],
+  "code": 200
+}
+const url407069 = 
+{
+  "data": [
+    {
+        "id": 407069,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P050_Side%20by%20Side%20Gazette%2001_3Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url407070 = 
+{
+  "data": [
+    {
+        "id": 407070,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P051_Chapter%2004_Vocabulary%20Preview.mp3",
+    }
+],
+  "code": 200
+}
+const url407071 = 
+{
+  "data": [
+    {
+        "id": 407071,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P052_Chapter%2004_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407072 = 
+{
+  "data": [
+    {
+        "id": 407072,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P052_Chapter%2004_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407073 = 
+{
+  "data": [
+    {
+        "id": 407073,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P053_Chapter%2004_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407074 = 
+{
+  "data": [
+    {
+        "id": 407074,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P053_Chapter%2004_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407075 = 
+{
+  "data": [
+    {
+        "id": 407075,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P054_Chapter%2004_1Model%20Conversations.mp3",
+    }
+],
+  "code": 200
+}
+const url407076 = 
+{
+  "data": [
+    {
+        "id": 407076,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P054_Chapter%2004_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407077 = 
+{
+  "data": [
+    {
+        "id": 407077,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P055_Chapter%2004_How%20to%20Say%20it!.mp3",
+    }
+],
+  "code": 200
+}
+const url407078 = 
+{
+  "data": [
+    {
+        "id": 407078,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P056_Chapter%2004_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407079 = 
+{
+  "data": [
+    {
+        "id": 407079,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P057_Chapter%2004_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407080 = 
+{
+  "data": [
+    {
+        "id": 407080,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P058_Chapter%2004_Model%20Conversations.mp3",
+    }
+],
+  "code": 200
+}
+const url407081 = 
+{
+  "data": [
+    {
+        "id": 407081,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P059_Chapter%2004_Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407082 = 
+{
+  "data": [
+    {
+        "id": 407082,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P060_Chapter%2004_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407083 = 
+{
+  "data": [
+    {
+        "id": 407083,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P061_Chapter%2004_Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url407084 = 
+{
+  "data": [
+    {
+        "id": 407084,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P062_Chapter%2004_Pronunciation.mp3",
+    }
+],
+  "code": 200
+}
+const url407085 = 
+{
+  "data": [
+    {
+        "id": 407085,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P065_Chapter%2005_Vocabulary%20Preview.mp3",
+    }
+],
+  "code": 200
+}
+const url407086 = 
+{
+  "data": [
+    {
+        "id": 407086,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P066_Chapter%2005_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407087 = 
+{
+  "data": [
+    {
+        "id": 407087,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P066_Chapter%2005_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407088 = 
+{
+  "data": [
+    {
+        "id": 407088,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P067_Chapter%2005_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407089 = 
+{
+  "data": [
+    {
+        "id": 407089,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P067_Chapter%2005_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407090 = 
+{
+  "data": [
+    {
+        "id": 407090,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P068_Chapter%2005_1Model%20Conversations.mp3",
+    }
+],
+  "code": 200
+}
+const url407091 = 
+{
+  "data": [
+    {
+        "id": 407091,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P068_Chapter%2005_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407092 = 
+{
+  "data": [
+    {
+        "id": 407092,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P069_Chapter%2005_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407093 = 
+{
+  "data": [
+    {
+        "id": 407093,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P069_Chapter%2005_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407094 = 
+{
+  "data": [
+    {
+        "id": 407094,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P070_Chapter%2005_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407095 = 
+{
+  "data": [
+    {
+        "id": 407095,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P072_Chapter%2005_1Model%20Conversations.mp3",
+    }
+],
+  "code": 200
+}
+const url407096 = 
+{
+  "data": [
+    {
+        "id": 407096,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P072_Chapter%2005_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407097 = 
+{
+  "data": [
+    {
+        "id": 407097,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P074_Chapter%2005_1Model%20Conversations.mp3",
+    }
+],
+  "code": 200
+}
+const url407098 = 
+{
+  "data": [
+    {
+        "id": 407098,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P074_Chapter%2005_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407099 = 
+{
+  "data": [
+    {
+        "id": 407099,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P075_Chapter%2005_How%20to%20Say%20it!.mp3",
+    }
+],
+  "code": 200
+}
+const url407100 = 
+{
+  "data": [
+    {
+        "id": 407100,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P076_Chapter%2005_1Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407101 = 
+{
+  "data": [
+    {
+        "id": 407101,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P076_Chapter%2005_2Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url407102 = 
+{
+  "data": [
+    {
+        "id": 407102,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P078_Chapter%2005_Pronunciation.mp3",
+    }
+],
+  "code": 200
+}
+const url407103 = 
+{
+  "data": [
+    {
+        "id": 407103,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P079_Side%20by%20Side%20Gazette%2002_Feature%20Article.mp3",
+    }
+],
+  "code": 200
+}
+const url407104 = 
+{
+  "data": [
+    {
+        "id": 407104,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P080_Side%20by%20Side%20Gazette%2002_Around%20the%20World.mp3",
+    }
+],
+  "code": 200
+}
+const url407105 = 
+{
+  "data": [
+    {
+        "id": 407105,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P081_Side%20by%20Side%20Gazette%2002_1Interview.mp3",
+    }
+],
+  "code": 200
+}
+const url407106 = 
+{
+  "data": [
+    {
+        "id": 407106,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P081_Side%20by%20Side%20Gazette%2002_2Fun%20With%20Idioms.mp3",
+    }
+],
+  "code": 200
+}
+const url407107 = 
+{
+  "data": [
+    {
+        "id": 407107,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P082_Side%20by%20Side%20Gazette%2002_1We've%20Got%20Mail!.mp3",
+    }
+],
+  "code": 200
+}
+const url407108 = 
+{
+  "data": [
+    {
+        "id": 407108,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P082_Side%20by%20Side%20Gazette%2002_2Global%20Exchange.mp3",
+    }
+],
+  "code": 200
+}
+const url407109 = 
+{
+  "data": [
+    {
+        "id": 407109,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P082_Side%20by%20Side%20Gazette%2002_3Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url407110 = 
+{
+  "data": [
+    {
+        "id": 407110,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P083_Chapter%2006_Vocabulary%20Preview.mp3",
+    }
+],
+  "code": 200
+}
+const url407111 = 
+{
+  "data": [
+    {
+        "id": 407111,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P084_Chapter%2006_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407112 = 
+{
+  "data": [
+    {
+        "id": 407112,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P084_Chapter%2006_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407113 = 
+{
+  "data": [
+    {
+        "id": 407113,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P086_Chapter%2006_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407114 = 
+{
+  "data": [
+    {
+        "id": 407114,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P086_Chapter%2006_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407115 = 
+{
+  "data": [
+    {
+        "id": 407115,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P086_Chapter%2006_3How%20to%20Say%20it!.mp3",
+    }
+],
+  "code": 200
+}
+const url407116 = 
+{
+  "data": [
+    {
+        "id": 407116,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P087_Chapter%2006_1Model%20Conversations.mp3",
+    }
+],
+  "code": 200
+}
+const url407117 = 
+{
+  "data": [
+    {
+        "id": 407117,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P087_Chapter%2006_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407118 = 
+{
+  "data": [
+    {
+        "id": 407118,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2006_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407119 = 
+{
+  "data": [
+    {
+        "id": 407119,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2006_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407120 = 
+{
+  "data": [
+    {
+        "id": 407120,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2006_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407121 = 
+{
+  "data": [
+    {
+        "id": 407121,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P090_Chapter%2006_Model%20Conversations.mp3",
+    }
+],
+  "code": 200
+}
+const url407122 = 
+{
+  "data": [
+    {
+        "id": 407122,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P091_Chapter%2006_Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407123 = 
+{
+  "data": [
+    {
+        "id": 407123,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P092_Chapter%2006_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407124 = 
+{
+  "data": [
+    {
+        "id": 407124,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P093_Chapter%2006_1Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407125 = 
+{
+  "data": [
+    {
+        "id": 407125,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P093_Chapter%2006_2Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url407126 = 
+{
+  "data": [
+    {
+        "id": 407126,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P094_Chapter%2006_Pronunciation.mp3",
+    }
+],
+  "code": 200
+}
+const url407127 = 
+{
+  "data": [
+    {
+        "id": 407127,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P095_Chapter%2007_Vocabulary%20Preview.mp3",
+    }
+],
+  "code": 200
+}
+const url407128 = 
+{
+  "data": [
+    {
+        "id": 407128,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P096_Chapter%2007_1Model%20Conversations.mp3",
+    }
+],
+  "code": 200
+}
+const url407129 = 
+{
+  "data": [
+    {
+        "id": 407129,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P096_Chapter%2007_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407130 = 
+{
+  "data": [
+    {
+        "id": 407130,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P098_Chapter%2007_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407131 = 
+{
+  "data": [
+    {
+        "id": 407131,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P098_Chapter%2007_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407132 = 
+{
+  "data": [
+    {
+        "id": 407132,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P100_Chapter%2007_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407133 = 
+{
+  "data": [
+    {
+        "id": 407133,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P101_Chapter%2007_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407134 = 
+{
+  "data": [
+    {
+        "id": 407134,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P102_Chapter%2007_1Model%20Conversations.mp3",
+    }
+],
+  "code": 200
+}
+const url407135 = 
+{
+  "data": [
+    {
+        "id": 407135,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P102_Chapter%2007_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407136 = 
+{
+  "data": [
+    {
+        "id": 407136,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P103_Chapter%2007_How%20to%20Say%20it!.mp3",
+    }
+],
+  "code": 200
+}
+const url407137 = 
+{
+  "data": [
+    {
+        "id": 407137,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P104_Chapter%2007_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407138 = 
+{
+  "data": [
+    {
+        "id": 407138,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P105_Chapter%2007_Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url407139 = 
+{
+  "data": [
+    {
+        "id": 407139,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P106_Chapter%2007_On%20Your%20Own.mp3",
+    }
+],
+  "code": 200
+}
+const url407140 = 
+{
+  "data": [
+    {
+        "id": 407140,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P108_Chapter%2007_Pronunciation.mp3",
+    }
+],
+  "code": 200
+}
+const url407141 = 
+{
+  "data": [
+    {
+        "id": 407141,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P109_Chapter%2008_Vocabulary%20Preview.mp3",
+    }
+],
+  "code": 200
+}
+const url407142 = 
+{
+  "data": [
+    {
+        "id": 407142,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P110_Chapter%2008_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407143 = 
+{
+  "data": [
+    {
+        "id": 407143,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P110_Chapter%2008_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407144 = 
+{
+  "data": [
+    {
+        "id": 407144,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P112_Chapter%2008_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407145 = 
+{
+  "data": [
+    {
+        "id": 407145,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P112_Chapter%2008_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407146 = 
+{
+  "data": [
+    {
+        "id": 407146,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P113_Chapter%2008_How%20to%20Say%20it!.mp3",
+    }
+],
+  "code": 200
+}
+const url407147 = 
+{
+  "data": [
+    {
+        "id": 407147,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P114_Chapter%2008_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407148 = 
+{
+  "data": [
+    {
+        "id": 407148,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P115_Chapter%2008_Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url407149 = 
+{
+  "data": [
+    {
+        "id": 407149,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P116_Chapter%2008_Model%20Conversations.mp3",
+    }
+],
+  "code": 200
+}
+const url407150 = 
+{
+  "data": [
+    {
+        "id": 407150,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P117_Chapter%2008_Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407151 = 
+{
+  "data": [
+    {
+        "id": 407151,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P119_Chapter%2008_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407152 = 
+{
+  "data": [
+    {
+        "id": 407152,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P120_Chapter%2008_Model%20Conversations.mp3",
+    }
+],
+  "code": 200
+}
+const url407153 = 
+{
+  "data": [
+    {
+        "id": 407153,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P121_Chapter%2008_Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407154 = 
+{
+  "data": [
+    {
+        "id": 407154,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P122_Chapter%2008_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407155 = 
+{
+  "data": [
+    {
+        "id": 407155,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P123_Chapter%2008_Pronunciation.mp3",
+    }
+],
+  "code": 200
+}
+const url407156 = 
+{
+  "data": [
+    {
+        "id": 407156,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P125_Side%20by%20Side%20Gazette%2003_Feature%20Article.mp3",
+    }
+],
+  "code": 200
+}
+const url407157 = 
+{
+  "data": [
+    {
+        "id": 407157,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P126_Side%20by%20Side%20Gazette%2003_1%202nd%20Article.mp3",
+    }
+],
+  "code": 200
+}
+const url407158 = 
+{
+  "data": [
+    {
+        "id": 407158,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P126_Side%20by%20Side%20Gazette%2003_2%20Around%20the%20World.mp3",
+    }
+],
+  "code": 200
+}
+const url407159 = 
+{
+  "data": [
+    {
+        "id": 407159,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P127_Side%20by%20Side%20Gazette%2003_1Interview.mp3",
+    }
+],
+  "code": 200
+}
+const url407160 = 
+{
+  "data": [
+    {
+        "id": 407160,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P127_Side%20by%20Side%20Gazette%2003_2Fun%20With%20Idioms.mp3",
+    }
+],
+  "code": 200
+}
+const url407161 = 
+{
+  "data": [
+    {
+        "id": 407161,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P128_Side%20by%20Side%20Gazette%2003_1We\'ve%20Got%20Mail!.mp3",
+    }
+],
+  "code": 200
+}
+const url407162 = 
+{
+  "data": [
+    {
+        "id": 407162,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P128_Side%20by%20Side%20Gazette%2003_2Global%20Exchange.mp3",
+    }
+],
+  "code": 200
+}
+const url407163 = 
+{
+  "data": [
+    {
+        "id": 407163,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P128_Side%20by%20Side%20Gazette%2003_3Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url407164 = 
+{
+  "data": [
+    {
+        "id": 407164,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P129_Chapter%2009_Vocabulary%20Preview.mp3",
+    }
+],
+  "code": 200
+}
+const url407165 = 
+{
+  "data": [
+    {
+        "id": 407165,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P130_Chapter%2009_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407166 = 
+{
+  "data": [
+    {
+        "id": 407166,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P130_Chapter%2009_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407167 = 
+{
+  "data": [
+    {
+        "id": 407167,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P131_Chapter%2009_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407168 = 
+{
+  "data": [
+    {
+        "id": 407168,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P131_Chapter%2009_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407169 = 
+{
+  "data": [
+    {
+        "id": 407169,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P132_Chapter%2009_1Model%20Conversations.mp3",
+    }
+],
+  "code": 200
+}
+const url407170 = 
+{
+  "data": [
+    {
+        "id": 407170,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P132_Chapter%2009_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407171 = 
+{
+  "data": [
+    {
+        "id": 407171,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P133_Chapter%2009_How%20to%20Say%20it!.mp3",
+    }
+],
+  "code": 200
+}
+const url407172 = 
+{
+  "data": [
+    {
+        "id": 407172,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P134_Chapter%2009_1Model%20Conversations.mp3",
+    }
+],
+  "code": 200
+}
+const url407173 = 
+{
+  "data": [
+    {
+        "id": 407173,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P134_Chapter%2009_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407174 = 
+{
+  "data": [
+    {
+        "id": 407174,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P136_Chapter%2009_1Model%20Conversations.mp3",
+    }
+],
+  "code": 200
+}
+const url407175 = 
+{
+  "data": [
+    {
+        "id": 407175,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P136_Chapter%2009_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407176 = 
+{
+  "data": [
+    {
+        "id": 407176,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P138_Chapter%2009_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407177 = 
+{
+  "data": [
+    {
+        "id": 407177,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P140_Chapter%2009_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407178 = 
+{
+  "data": [
+    {
+        "id": 407178,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P141_Chapter%2009_1Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url407179 = 
+{
+  "data": [
+    {
+        "id": 407179,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P141_Chapter%2009_2In%20Your%20Own%20Words.mp3",
+    }
+],
+  "code": 200
+}
+const url407180 = 
+{
+  "data": [
+    {
+        "id": 407180,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P142_Chapter%2009_Interactions.mp3",
+    }
+],
+  "code": 200
+}
+const url407181 = 
+{
+  "data": [
+    {
+        "id": 407181,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P144_Chapter%2009_Pronunciation.mp3",
+    }
+],
+  "code": 200
+}
+const url407182 = 
+{
+  "data": [
+    {
+        "id": 407182,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P145_Chapter%2010_Vocabulary%20Preview.mp3",
+    }
+],
+  "code": 200
+}
+const url407183 = 
+{
+  "data": [
+    {
+        "id": 407183,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P146_Chapter%2010_Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407184 = 
+{
+  "data": [
+    {
+        "id": 407184,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P147_Chapter%2010_1Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407185 = 
+{
+  "data": [
+    {
+        "id": 407185,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P147_Chapter%2010_2How%20to%20Say%20it!.mp3",
+    }
+],
+  "code": 200
+}
+const url407186 = 
+{
+  "data": [
+    {
+        "id": 407186,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P148_Chapter%2010_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407187 = 
+{
+  "data": [
+    {
+        "id": 407187,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P148_Chapter%2010_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407188 = 
+{
+  "data": [
+    {
+        "id": 407188,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P150_Chapter%2010_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407189 = 
+{
+  "data": [
+    {
+        "id": 407189,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P151_Chapter%2010_Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url407190 = 
+{
+  "data": [
+    {
+        "id": 407190,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P152_Chapter%2010_1Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407191 = 
+{
+  "data": [
+    {
+        "id": 407191,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P152_Chapter%2010_2Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407192 = 
+{
+  "data": [
+    {
+        "id": 407192,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P154_Chapter%2010_Model%20Conversation.mp3",
+    }
+],
+  "code": 200
+}
+const url407193 = 
+{
+  "data": [
+    {
+        "id": 407193,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P155_Chapter%2010_Exercises.mp3",
+    }
+],
+  "code": 200
+}
+const url407194 = 
+{
+  "data": [
+    {
+        "id": 407194,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P156_Chapter%2010_Reading.mp3",
+    }
+],
+  "code": 200
+}
+const url407195 = 
+{
+  "data": [
+    {
+        "id": 407195,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P158_Chapter%2010_Pronunciation.mp3",
+    }
+],
+  "code": 200
+}
+const url407196 = 
+{
+  "data": [
+    {
+        "id": 407196,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P159_Side%20by%20Side%20Gazette%2004_Feature%20Article.mp3",
+    }
+],
+  "code": 200
+}
+const url407197 = 
+{
+  "data": [
+    {
+        "id": 407197,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P160_Side%20by%20Side%20Gazette%2004_Around%20the%20World.mp3",
+    }
+],
+  "code": 200
+}
+const url407198 = 
+{
+  "data": [
+    {
+        "id": 407198,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P161_Side%20by%20Side%20Gazette%2004_1Interview.mp3",
+    }
+],
+  "code": 200
+}
+const url407199 = 
+{
+  "data": [
+    {
+        "id": 407199,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P161_Side%20by%20Side%20Gazette%2004_2Fun%20With%20Idioms.mp3",
+    }
+],
+  "code": 200
+}
+const url407200 = 
+{
+  "data": [
+    {
+        "id": 407200,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P162_Side%20by%20Side%20Gazette%2004_1We've%20Got%20Mail!.mp3",
+    }
+],
+  "code": 200
+}
+const url407201 = 
+{
+  "data": [
+    {
+        "id": 407201,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P162_Side%20by%20Side%20Gazette%2004_2Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url407202 = 
+{
+  "data": [
+    {
+        "id": 407202,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P162_Side%20by%20Side%20Gazette%2004_3Global%20Exchange.mp3",
+    }
+],
+  "code": 200
+}
+
+const url408001 = 
+{
+  "data": [
+    {
+        "id": 408001,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/A001Introduction%20.MP3",
+    }
+],
+  "code": 200
+}
+const url408002 = 
+{
+  "data": [
+    {
+        "id": 408002,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P003_Chapter%2001_Exercise%20C%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408003 = 
+{
+  "data": [
+    {
+        "id": 408003,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P005_Chapter%2001_Exercise%20E%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408004 = 
+{
+  "data": [
+    {
+        "id": 408004,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P006_Chapter%2001_Exercise%20G%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408005 = 
+{
+  "data": [
+    {
+        "id": 408005,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P008_Chapter%2001_Exercise%20K%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408006 = 
+{
+  "data": [
+    {
+        "id": 408006,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P016_Chapter%2001_Exercise%20R%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408007 = 
+{
+  "data": [
+    {
+        "id": 408007,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P016_Chapter%2001_Exercise%20S%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408008 = 
+{
+  "data": [
+    {
+        "id": 408008,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P023_Chapter%2002_Exercise%20G%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408009 = 
+{
+  "data": [
+    {
+        "id": 408009,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P028_Chapter%2002_Exercise%20K%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408010 = 
+{
+  "data": [
+    {
+        "id": 408010,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P029_Chapter%2002_Exercise%20M%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408011 = 
+{
+  "data": [
+    {
+        "id": 408011,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P030_Chapter%2002_Exercise%20O%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408012 = 
+{
+  "data": [
+    {
+        "id": 408012,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P031_Chapter%2002_Exercise%20P%20Have%20you%20Heard.mp3",
+    }
+],
+  "code": 200
+}
+const url408013 = 
+{
+  "data": [
+    {
+        "id": 408013,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P034_Chapter%2003_Exercise%20C%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408014 = 
+{
+  "data": [
+    {
+        "id": 408014,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P035_Chapter%2003_Exercise%20E%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408015 = 
+{
+  "data": [
+    {
+        "id": 408015,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P039_Chapter%2003_Exercise%20L%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408016 = 
+{
+  "data": [
+    {
+        "id": 408016,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P041_Chapter%2003_Exercise%20O%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408017 = 
+{
+  "data": [
+    {
+        "id": 408017,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P043_Chapter%2003_Exercise%20R%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408018 = 
+{
+  "data": [
+    {
+        "id": 408018,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P045_Check-Up%20Test%20Chapters%2001-03_Exercise%20D%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408019 = 
+{
+  "data": [
+    {
+        "id": 408019,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P049_Chapter%2004_Exercise%20E%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408020 = 
+{
+  "data": [
+    {
+        "id": 408020,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P049_Chapter%2004_Exercise%20F%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408021 = 
+{
+  "data": [
+    {
+        "id": 408021,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P052_Chapter%2004_Exercise%20H%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408022 = 
+{
+  "data": [
+    {
+        "id": 408022,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P053_Chapter%2004_Exercise%20J%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408023 = 
+{
+  "data": [
+    {
+        "id": 408023,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P053_Chapter%2004_Exercise%20K%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408024 = 
+{
+  "data": [
+    {
+        "id": 408024,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P058_Chapter%2005_Exercise%20D%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408025 = 
+{
+  "data": [
+    {
+        "id": 408025,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P059_Chapter%2005_Exercise%20E%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408026 = 
+{
+  "data": [
+    {
+        "id": 408026,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P063_Chapter%2005_Exercise%20J%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408027 = 
+{
+  "data": [
+    {
+        "id": 408027,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P066_Chapter%2005_Exercise%20N%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408028 = 
+{
+  "data": [
+    {
+        "id": 408028,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P073_Chapter%2005_Exercise%20U%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408029 = 
+{
+  "data": [
+    {
+        "id": 408029,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P073_Chapter%2005_Exercise%20V%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408030 = 
+{
+  "data": [
+    {
+        "id": 408030,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P074_Chapter%2005_Exercise%20W%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408031 = 
+{
+  "data": [
+    {
+        "id": 408031,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P077_Check-Up%20Test%20Chapters%2004-05_Exercise%20D%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408032 = 
+{
+  "data": [
+    {
+        "id": 408032,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P080_Chapter%2006_Exercise%20E%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408033 = 
+{
+  "data": [
+    {
+        "id": 408033,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P082_Chapter%2006_Exercise%20G%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408034 = 
+{
+  "data": [
+    {
+        "id": 408034,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P083_Chapter%2006_Exercise%20I%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408035 = 
+{
+  "data": [
+    {
+        "id": 408035,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P086_Chapter%2006_Exercise%20N%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408036 = 
+{
+  "data": [
+    {
+        "id": 408036,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P087_Chapter%2006_Exercise%20P%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408037 = 
+{
+  "data": [
+    {
+        "id": 408037,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P089_Chapter%2006_Exercise%20R%20Sound%20It%20Out!.mp3",
+    }
+],
+  "code": 200
+}
+const url408038 = 
+{
+  "data": [
+    {
+        "id": 408038,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P093_Chapter%2007_Exercise%20E%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408039 = 
+{
+  "data": [
+    {
+        "id": 408039,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P096_Chapter%2007_Exercise%20J%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408040 = 
+{
+  "data": [
+    {
+        "id": 408040,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P099_Chapter%2007_Exercise%20N%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408041 = 
+{
+  "data": [
+    {
+        "id": 408041,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P102_Chapter%2007_Exercise%20R%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408042 = 
+{
+  "data": [
+    {
+        "id": 408042,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P102_Chapter%2007_Exercise%20S%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408043 = 
+{
+  "data": [
+    {
+        "id": 408043,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P102_Chapter%2007_Exercise%20T%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408044 = 
+{
+  "data": [
+    {
+        "id": 408044,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P103_Chapter%2007_Exercise%20U%20Have%20You%20Heard.mp3",
+    }
+],
+  "code": 200
+}
+const url408045 = 
+{
+  "data": [
+    {
+        "id": 408045,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P107_Chapter%2008_Exercise%20C%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408046 = 
+{
+  "data": [
+    {
+        "id": 408046,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P108_Chapter%2008_Exercise%20E%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408047 = 
+{
+  "data": [
+    {
+        "id": 408047,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P110_Chapter%2008_Exercise%20H%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408048 = 
+{
+  "data": [
+    {
+        "id": 408048,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P113_Chapter%2008_Exercise%20J%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408049 = 
+{
+  "data": [
+    {
+        "id": 408049,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P118_Chapter%2008_Exercise%20O%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408050 = 
+{
+  "data": [
+    {
+        "id": 408050,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P120_Chapter%2008_Exercise%20Q%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408051 = 
+{
+  "data": [
+    {
+        "id": 408051,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P123_Check-Up%20Test%20Chapters%2007-08_Exercise%20D%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408052 = 
+{
+  "data": [
+    {
+        "id": 408052,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P129_Chapter%2009_Exercise%20G%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408053 = 
+{
+  "data": [
+    {
+        "id": 408053,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P130_Chapter%2009_Exercise%20I%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408054 = 
+{
+  "data": [
+    {
+        "id": 408054,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P132_Chapter%2009_Exercise%20L%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408055 = 
+{
+  "data": [
+    {
+        "id": 408055,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P137_Chapter%2009_Exercise%20P%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408056 = 
+{
+  "data": [
+    {
+        "id": 408056,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P141_Chapter%2010_Exercise%20D%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408057 = 
+{
+  "data": [
+    {
+        "id": 408057,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P143_Chapter%2010_Exercise%20F%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408058 = 
+{
+  "data": [
+    {
+        "id": 408058,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P145_Chapter%2010_Exercise%20J%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408059 = 
+{
+  "data": [
+    {
+        "id": 408059,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P147_Chapter%2010_Exercise%20M%20GrammarRap.mp3",
+    }
+],
+  "code": 200
+}
+const url408060 = 
+{
+  "data": [
+    {
+        "id": 408060,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P150_Chapter%2010_Exercise%20P%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408061 = 
+{
+  "data": [
+    {
+        "id": 408061,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P151_Chapter%2010_Exercise%20R%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+const url408062 = 
+{
+  "data": [
+    {
+        "id": 408062,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P151_Chapter%2010_Exercise%20S%20Have%20You%20Heard.mp3",
+    }
+],
+  "code": 200
+}
+const url408063 = 
+{
+  "data": [
+    {
+        "id": 408063,
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS4MP3/%E7%AC%AC4%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P153_Check-Up%20Test%20Chapters%2009-10_Exercise%20E%20Listening.mp3",
+    }
+],
+  "code": 200
+}
+
 
 
 module.exports = {
@@ -48288,5 +62980,536 @@ module.exports = {
 		url406044:url406044,
 		url406045:url406045,
 		url406046:url406046,
-		url406047:url406047
+		url406047:url406047,
+		url407001:url407001,
+		url407002:url407002,
+		url407003:url407003,
+		url407004:url407004,
+		url407005:url407005,
+		url407006:url407006,
+		url407007:url407007,
+		url407008:url407008,
+		url407009:url407009,
+		url407010:url407010,
+		url407011:url407011,
+		url407012:url407012,
+		url407013:url407013,
+		url407014:url407014,
+		url407015:url407015,
+		url407016:url407016,
+		url407017:url407017,
+		url407018:url407018,
+		url407019:url407019,
+		url407020:url407020,
+		url407021:url407021,
+		url407022:url407022,
+		url407023:url407023,
+		url407024:url407024,
+		url407025:url407025,
+		url407026:url407026,
+		url407027:url407027,
+		url407028:url407028,
+		url407029:url407029,
+		url407030:url407030,
+		url407031:url407031,
+		url407032:url407032,
+		url407033:url407033,
+		url407034:url407034,
+		url407035:url407035,
+		url407036:url407036,
+		url407037:url407037,
+		url407038:url407038,
+		url407039:url407039,
+		url407040:url407040,
+		url407041:url407041,
+		url407042:url407042,
+		url407043:url407043,
+		url407044:url407044,
+		url407045:url407045,
+		url407046:url407046,
+		url407047:url407047,
+		url407048:url407048,
+		url407049:url407049,
+		url407050:url407050,
+		url407051:url407051,
+		url407052:url407052,
+		url407053:url407053,
+		url407054:url407054,
+		url407055:url407055,
+		url407056:url407056,
+		url407057:url407057,
+		url407058:url407058,
+		url407059:url407059,
+		url407060:url407060,
+		url407061:url407061,
+		url407062:url407062,
+		url407063:url407063,
+		url407064:url407064,
+		url407065:url407065,
+		url407066:url407066,
+		url407067:url407067,
+		url407068:url407068,
+		url407069:url407069,
+		url407070:url407070,
+		url407071:url407071,
+		url407072:url407072,
+		url407073:url407073,
+		url407074:url407074,
+		url407075:url407075,
+		url407076:url407076,
+		url407077:url407077,
+		url407078:url407078,
+		url407079:url407079,
+		url407080:url407080,
+		url407081:url407081,
+		url407082:url407082,
+		url407083:url407083,
+		url407084:url407084,
+		url407085:url407085,
+		url407086:url407086,
+		url407087:url407087,
+		url407088:url407088,
+		url407089:url407089,
+		url407090:url407090,
+		url407091:url407091,
+		url407092:url407092,
+		url407093:url407093,
+		url407094:url407094,
+		url407095:url407095,
+		url407096:url407096,
+		url407097:url407097,
+		url407098:url407098,
+		url407099:url407099,
+		url407100:url407100,
+		url407101:url407101,
+		url407102:url407102,
+		url407103:url407103,
+		url407104:url407104,
+		url407105:url407105,
+		url407106:url407106,
+		url407107:url407107,
+		url407108:url407108,
+		url407109:url407109,
+		url407110:url407110,
+		url407111:url407111,
+		url407112:url407112,
+		url407113:url407113,
+		url407114:url407114,
+		url407115:url407115,
+		url407116:url407116,
+		url407117:url407117,
+		url407118:url407118,
+		url407119:url407119,
+		url407120:url407120,
+		url407121:url407121,
+		url407122:url407122,
+		url407123:url407123,
+		url407124:url407124,
+		url407125:url407125,
+		url407126:url407126,
+		url407127:url407127,
+		url407128:url407128,
+		url407129:url407129,
+		url407130:url407130,
+		url407131:url407131,
+		url407132:url407132,
+		url407133:url407133,
+		url407134:url407134,
+		url407135:url407135,
+		url407136:url407136,
+		url407137:url407137,
+		url407138:url407138,
+		url407139:url407139,
+		url407140:url407140,
+		url407141:url407141,
+		url407142:url407142,
+		url407143:url407143,
+		url407144:url407144,
+		url407145:url407145,
+		url407146:url407146,
+		url407147:url407147,
+		url407148:url407148,
+		url407149:url407149,
+		url407150:url407150,
+		url407151:url407151,
+		url407152:url407152,
+		url407153:url407153,
+		url407154:url407154,
+		url407155:url407155,
+		url407156:url407156,
+		url407157:url407157,
+		url407158:url407158,
+		url407159:url407159,
+		url407160:url407160,
+		url407161:url407161,
+		url407162:url407162,
+		url407163:url407163,
+		url407164:url407164,
+		url407165:url407165,
+		url407166:url407166,
+		url407167:url407167,
+		url407168:url407168,
+		url407169:url407169,
+		url407170:url407170,
+		url407171:url407171,
+		url407172:url407172,
+		url407173:url407173,
+		url407174:url407174,
+		url407175:url407175,
+		url407176:url407176,
+		url407177:url407177,
+		url407178:url407178,
+		url407179:url407179,
+		url407180:url407180,
+		url407181:url407181,
+		url407182:url407182,
+		url407183:url407183,
+		url407184:url407184,
+		url407185:url407185,
+		url407186:url407186,
+		url407187:url407187,
+		url407188:url407188,
+		url407189:url407189,
+		url407190:url407190,
+		url407191:url407191,
+		url407192:url407192,
+		url407193:url407193,
+		url407194:url407194,
+		url407195:url407195,
+		url407196:url407196,
+		url407197:url407197,
+		url407198:url407198,
+		url407199:url407199,
+		url407200:url407200,
+		url407201:url407201,
+		url407202:url407202,
+		url408001:url408001,
+		url408002:url408002,
+		url408003:url408003,
+		url408004:url408004,
+		url408005:url408005,
+		url408006:url408006,
+		url408007:url408007,
+		url408008:url408008,
+		url408009:url408009,
+		url408010:url408010,
+		url408011:url408011,
+		url408012:url408012,
+		url408013:url408013,
+		url408014:url408014,
+		url408015:url408015,
+		url408016:url408016,
+		url408017:url408017,
+		url408018:url408018,
+		url408019:url408019,
+		url408020:url408020,
+		url408021:url408021,
+		url408022:url408022,
+		url408023:url408023,
+		url408024:url408024,
+		url408025:url408025,
+		url408026:url408026,
+		url408027:url408027,
+		url408028:url408028,
+		url408029:url408029,
+		url408030:url408030,
+		url408031:url408031,
+		url408032:url408032,
+		url408033:url408033,
+		url408034:url408034,
+		url408035:url408035,
+		url408036:url408036,
+		url408037:url408037,
+		url408038:url408038,
+		url408039:url408039,
+		url408040:url408040,
+		url408041:url408041,
+		url408042:url408042,
+		url408043:url408043,
+		url408044:url408044,
+		url408045:url408045,
+		url408046:url408046,
+		url408047:url408047,
+		url408048:url408048,
+		url408049:url408049,
+		url408050:url408050,
+		url408051:url408051,
+		url408052:url408052,
+		url408053:url408053,
+		url408054:url408054,
+		url408055:url408055,
+		url408056:url408056,
+		url408057:url408057,
+		url408058:url408058,
+		url408059:url408059,
+		url408060:url408060,
+		url408061:url408061,
+		url408062:url408062,
+		url408063:url408063,
+		detail407001:detail407001,
+		detail407002:detail407002,
+		detail407003:detail407003,
+		detail407004:detail407004,
+		detail407005:detail407005,
+		detail407006:detail407006,
+		detail407007:detail407007,
+		detail407008:detail407008,
+		detail407009:detail407009,
+		detail407010:detail407010,
+		detail407011:detail407011,
+		detail407012:detail407012,
+		detail407013:detail407013,
+		detail407014:detail407014,
+		detail407015:detail407015,
+		detail407016:detail407016,
+		detail407017:detail407017,
+		detail407018:detail407018,
+		detail407019:detail407019,
+		detail407020:detail407020,
+		detail407021:detail407021,
+		detail407022:detail407022,
+		detail407023:detail407023,
+		detail407024:detail407024,
+		detail407025:detail407025,
+		detail407026:detail407026,
+		detail407027:detail407027,
+		detail407028:detail407028,
+		detail407029:detail407029,
+		detail407030:detail407030,
+		detail407031:detail407031,
+		detail407032:detail407032,
+		detail407033:detail407033,
+		detail407034:detail407034,
+		detail407035:detail407035,
+		detail407036:detail407036,
+		detail407037:detail407037,
+		detail407038:detail407038,
+		detail407039:detail407039,
+		detail407040:detail407040,
+		detail407041:detail407041,
+		detail407042:detail407042,
+		detail407043:detail407043,
+		detail407044:detail407044,
+		detail407045:detail407045,
+		detail407046:detail407046,
+		detail407047:detail407047,
+		detail407048:detail407048,
+		detail407049:detail407049,
+		detail407050:detail407050,
+		detail407051:detail407051,
+		detail407052:detail407052,
+		detail407053:detail407053,
+		detail407054:detail407054,
+		detail407055:detail407055,
+		detail407056:detail407056,
+		detail407057:detail407057,
+		detail407058:detail407058,
+		detail407059:detail407059,
+		detail407060:detail407060,
+		detail407061:detail407061,
+		detail407062:detail407062,
+		detail407063:detail407063,
+		detail407064:detail407064,
+		detail407065:detail407065,
+		detail407066:detail407066,
+		detail407067:detail407067,
+		detail407068:detail407068,
+		detail407069:detail407069,
+		detail407070:detail407070,
+		detail407071:detail407071,
+		detail407072:detail407072,
+		detail407073:detail407073,
+		detail407074:detail407074,
+		detail407075:detail407075,
+		detail407076:detail407076,
+		detail407077:detail407077,
+		detail407078:detail407078,
+		detail407079:detail407079,
+		detail407080:detail407080,
+		detail407081:detail407081,
+		detail407082:detail407082,
+		detail407083:detail407083,
+		detail407084:detail407084,
+		detail407085:detail407085,
+		detail407086:detail407086,
+		detail407087:detail407087,
+		detail407088:detail407088,
+		detail407089:detail407089,
+		detail407090:detail407090,
+		detail407091:detail407091,
+		detail407092:detail407092,
+		detail407093:detail407093,
+		detail407094:detail407094,
+		detail407095:detail407095,
+		detail407096:detail407096,
+		detail407097:detail407097,
+		detail407098:detail407098,
+		detail407099:detail407099,
+		detail407100:detail407100,
+		detail407101:detail407101,
+		detail407102:detail407102,
+		detail407103:detail407103,
+		detail407104:detail407104,
+		detail407105:detail407105,
+		detail407106:detail407106,
+		detail407107:detail407107,
+		detail407108:detail407108,
+		detail407109:detail407109,
+		detail407110:detail407110,
+		detail407111:detail407111,
+		detail407112:detail407112,
+		detail407113:detail407113,
+		detail407114:detail407114,
+		detail407115:detail407115,
+		detail407116:detail407116,
+		detail407117:detail407117,
+		detail407118:detail407118,
+		detail407119:detail407119,
+		detail407120:detail407120,
+		detail407121:detail407121,
+		detail407122:detail407122,
+		detail407123:detail407123,
+		detail407124:detail407124,
+		detail407125:detail407125,
+		detail407126:detail407126,
+		detail407127:detail407127,
+		detail407128:detail407128,
+		detail407129:detail407129,
+		detail407130:detail407130,
+		detail407131:detail407131,
+		detail407132:detail407132,
+		detail407133:detail407133,
+		detail407134:detail407134,
+		detail407135:detail407135,
+		detail407136:detail407136,
+		detail407137:detail407137,
+		detail407138:detail407138,
+		detail407139:detail407139,
+		detail407140:detail407140,
+		detail407141:detail407141,
+		detail407142:detail407142,
+		detail407143:detail407143,
+		detail407144:detail407144,
+		detail407145:detail407145,
+		detail407146:detail407146,
+		detail407147:detail407147,
+		detail407148:detail407148,
+		detail407149:detail407149,
+		detail407150:detail407150,
+		detail407151:detail407151,
+		detail407152:detail407152,
+		detail407153:detail407153,
+		detail407154:detail407154,
+		detail407155:detail407155,
+		detail407156:detail407156,
+		detail407157:detail407157,
+		detail407158:detail407158,
+		detail407159:detail407159,
+		detail407160:detail407160,
+		detail407161:detail407161,
+		detail407162:detail407162,
+		detail407163:detail407163,
+		detail407164:detail407164,
+		detail407165:detail407165,
+		detail407166:detail407166,
+		detail407167:detail407167,
+		detail407168:detail407168,
+		detail407169:detail407169,
+		detail407170:detail407170,
+		detail407171:detail407171,
+		detail407172:detail407172,
+		detail407173:detail407173,
+		detail407174:detail407174,
+		detail407175:detail407175,
+		detail407176:detail407176,
+		detail407177:detail407177,
+		detail407178:detail407178,
+		detail407179:detail407179,
+		detail407180:detail407180,
+		detail407181:detail407181,
+		detail407182:detail407182,
+		detail407183:detail407183,
+		detail407184:detail407184,
+		detail407185:detail407185,
+		detail407186:detail407186,
+		detail407187:detail407187,
+		detail407188:detail407188,
+		detail407189:detail407189,
+		detail407190:detail407190,
+		detail407191:detail407191,
+		detail407192:detail407192,
+		detail407193:detail407193,
+		detail407194:detail407194,
+		detail407195:detail407195,
+		detail407196:detail407196,
+		detail407197:detail407197,
+		detail407198:detail407198,
+		detail407199:detail407199,
+		detail407200:detail407200,
+		detail407201:detail407201,
+		detail407202:detail407202,
+		detail408001:detail408001,
+		detail408002:detail408002,
+		detail408003:detail408003,
+		detail408004:detail408004,
+		detail408005:detail408005,
+		detail408006:detail408006,
+		detail408007:detail408007,
+		detail408008:detail408008,
+		detail408009:detail408009,
+		detail408010:detail408010,
+		detail408011:detail408011,
+		detail408012:detail408012,
+		detail408013:detail408013,
+		detail408014:detail408014,
+		detail408015:detail408015,
+		detail408016:detail408016,
+		detail408017:detail408017,
+		detail408018:detail408018,
+		detail408019:detail408019,
+		detail408020:detail408020,
+		detail408021:detail408021,
+		detail408022:detail408022,
+		detail408023:detail408023,
+		detail408024:detail408024,
+		detail408025:detail408025,
+		detail408026:detail408026,
+		detail408027:detail408027,
+		detail408028:detail408028,
+		detail408029:detail408029,
+		detail408030:detail408030,
+		detail408031:detail408031,
+		detail408032:detail408032,
+		detail408033:detail408033,
+		detail408034:detail408034,
+		detail408035:detail408035,
+		detail408036:detail408036,
+		detail408037:detail408037,
+		detail408038:detail408038,
+		detail408039:detail408039,
+		detail408040:detail408040,
+		detail408041:detail408041,
+		detail408042:detail408042,
+		detail408043:detail408043,
+		detail408044:detail408044,
+		detail408045:detail408045,
+		detail408046:detail408046,
+		detail408047:detail408047,
+		detail408048:detail408048,
+		detail408049:detail408049,
+		detail408050:detail408050,
+		detail408051:detail408051,
+		detail408052:detail408052,
+		detail408053:detail408053,
+		detail408054:detail408054,
+		detail408055:detail408055,
+		detail408056:detail408056,
+		detail408057:detail408057,
+		detail408058:detail408058,
+		detail408059:detail408059,
+		detail408060:detail408060,
+		detail408061:detail408061,
+		detail408062:detail408062,
+		detail408063:detail408063
+		
 	}
