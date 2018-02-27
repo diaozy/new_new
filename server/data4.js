@@ -61299,6 +61299,8 @@ module.exports = {
 		book404:book404,
 		book405:book405,
 		book406:book406,
+		book407:book407,
+		book408:book408,
 		detail401001:detail401001,
 		detail401002:detail401002,
 		detail401003:detail401003,
