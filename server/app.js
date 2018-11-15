@@ -25,18 +25,6 @@ var book407 = require('./data4.js').book407;
 var book408 = require('./data4.js').book408;
 
 var book501 = require('./data5.js').book501;
-var book502 = require('./data5.js').book502;
-var book503 = require('./data5.js').book503;
-var book504 = require('./data5.js').book504;
-var book505 = require('./data5.js').book505;
-var book506 = require('./data5.js').book506;
-var book507 = require('./data5.js').book507;
-var book508 = require('./data5.js').book508;
-var book509 = require('./data5.js').book509;
-var book510 = require('./data5.js').book510;
-var book511 = require('./data5.js').book511;
-var book512 = require('./data5.js').book512;
-
 
 var book601 = require('./data6.js').book601;
 var book602 = require('./data6.js').book602;
@@ -113,71 +101,7 @@ for (var i=501001 ; i < 501008;i++)
 	eval('var url'+ i + '= require(\'./data5.js\').url' + i);
 }
 
-for (var i=501001 ; i < 501008;i++)
-{
-	eval('var detail'+ i + '= require(\'./data5.js\').detail' + i);
-	eval('var url'+ i + '= require(\'./data5.js\').url' + i);
-}
-for (var i=502001 ; i < 502007;i++)
-{
-	eval('var detail'+ i + '= require(\'./data5.js\').detail' + i);
-	eval('var url'+ i + '= require(\'./data5.js\').url' + i);
-}
-
-for (var i=503001 ; i < 503007;i++)
-{
-	eval('var detail'+ i + '= require(\'./data5.js\').detail' + i);
-	eval('var url'+ i + '= require(\'./data5.js\').url' + i);
-}
-for (var i=504001 ; i < 504011;i++)
-{
-	eval('var detail'+ i + '= require(\'./data5.js\').detail' + i);
-	eval('var url'+ i + '= require(\'./data5.js\').url' + i);
-}
-
-for (var i=505001 ; i < 505008;i++)
-{
-	eval('var detail'+ i + '= require(\'./data5.js\').detail' + i);
-	eval('var url'+ i + '= require(\'./data5.js\').url' + i);
-}
-
-for (var i=506001 ; i < 506009;i++)
-{
-	eval('var detail'+ i + '= require(\'./data5.js\').detail' + i);
-	eval('var url'+ i + '= require(\'./data5.js\').url' + i);
-}
-
-for (var i=507001 ; i < 507007;i++)
-{
-	eval('var detail'+ i + '= require(\'./data5.js\').detail' + i);
-	eval('var url'+ i + '= require(\'./data5.js\').url' + i);
-}
-
-for (var i=508001 ; i < 508011;i++)
-{
-	eval('var detail'+ i + '= require(\'./data5.js\').detail' + i);
-	eval('var url'+ i + '= require(\'./data5.js\').url' + i);
-}
-
-for (var i=509001 ; i < 509011;i++)
-{
-	eval('var detail'+ i + '= require(\'./data5.js\').detail' + i);
-	eval('var url'+ i + '= require(\'./data5.js\').url' + i);
-}
-
-for (var i=510001 ; i < 510007;i++)
-{
-	eval('var detail'+ i + '= require(\'./data5.js\').detail' + i);
-	eval('var url'+ i + '= require(\'./data5.js\').url' + i);
-}
-
-for (var i=511001 ; i < 511012;i++)
-{
-	eval('var detail'+ i + '= require(\'./data5.js\').detail' + i);
-	eval('var url'+ i + '= require(\'./data5.js\').url' + i);
-}
-
-for (var i=512001 ; i < 512011;i++)
+for (var i=501001 ; i < 501021;i++)
 {
 	eval('var detail'+ i + '= require(\'./data5.js\').detail' + i);
 	eval('var url'+ i + '= require(\'./data5.js\').url' + i);

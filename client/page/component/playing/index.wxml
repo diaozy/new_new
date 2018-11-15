@@ -13,8 +13,9 @@
     <image src="{{music.al.picUrl||music.album.picUrl}}?param=200y200"  id="pmaincover" />
     <!-- <image src="{{music.al.picUrl||music.album.picUrl}}?param=200y200" bindtap="loadlrc" id="pmaincover" /> -->
    </view>
+<!-- <ad unit-id="adunit-94c621b6e7fd1817"></ad> -->
   <template is="lrc" data="{{lrc:lrc,showlrc:showlrc,lrcindex:lrcindex}}" />
-  <view id="playing-actwrap">
+    <view id="playing-actwrap">
     <view id="playing-info" wx:if="{{!showlrc}}">
     </view>
 
@@ -52,12 +53,9 @@
         <image src="../../../image/cm2_icn_list@2x.png" />
       </view>
     </view>
+    </view>
   </view>
-</view>
 <template is="pp_music" data="{{music:music,show:showminfo}}" />
-
-
-
 <!-- 播放列表 -->
 <view class="pp_overlay" hidden="{{!showpinfo}}" bindtap="togpinfo"></view>
 <view class="pp_main" hidden="{{!showpinfo}}">

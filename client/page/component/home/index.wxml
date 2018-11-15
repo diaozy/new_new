@@ -12,6 +12,7 @@
         <image src="{{item.pic}}" class="slide-image" width="750" height="290" bindtap="swipclick" />
       </swiper-item>
     </swiper>
+
     <view wx:if="{{!rec.loading}}" id="album_loading">
       <image src="../../../image/cm2_discover_icn_start_big@2x.png"></image>
       正在为您生成个性化推荐...</view>
@@ -57,7 +58,7 @@
           </navigator>
         </view>
       </view>
-
+    <!-- <ad unit-id="adunit-9db293ee5f515286"></ad> -->
       <!--playlist2-->
       <view class="st_title" wx:if="{{rec.re[1].length > 0 }}">
         <image width="30" mode="widthFix" src="../../../image/cm2_discover_icn_recmd@2x.png" />{{rec.re[1][0].copywriter}}
@@ -74,7 +75,7 @@
           </navigator>
         </view>
       </view>
-
+    <ad unit-id="adunit-9db293ee5f515286"></ad>
       <!--playlist3-->
       <view class="st_title" wx:if="{{rec.re[2].length > 0 }}">
         <image width="30" mode="widthFix" src="../../../image/cm2_discover_icn_recmd@2x.png" />{{rec.re[2][0].copywriter}}

@@ -27,6 +27,7 @@
         </button>
        </view> 
     </view>
+    <ad unit-id="adunit-94c621b6e7fd1817"></ad>
   </view>
   <view class="plist-detail page_pp">
     <block wx:if="{{list.playlist.tracks.length}}">
