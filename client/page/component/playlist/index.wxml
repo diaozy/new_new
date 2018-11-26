@@ -22,6 +22,7 @@
     <view  id="plh_action" >
        <view> 
 <button open-type="share" class='btn' size = "mini" hover-class='btn_hover'>分享本音频</button>
+<text>\n</text>
        </view> 
     </view>
     <ad unit-id="adunit-94c621b6e7fd1817"></ad>

@@ -134,7 +134,7 @@
 .btn {
   /* width: 10%; */
   /* height:50 px; */
-  margin-left: 5%;
+  /* margin-left: 5%; */
   /* margin:inherit; */
   /* align-content: center; */
   background-color: rgba(5, 155, 255, 0.226);
