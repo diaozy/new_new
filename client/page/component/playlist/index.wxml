@@ -21,10 +21,7 @@
     </view>
     <view  id="plh_action" >
        <view> 
-        <button  open-type="share" size = "mini" plain = "true">
-        <!-- <image src="../../../image/cm2_list_detail_icn_share@2x.png" /> -->
-        分享
-        </button>
+<button open-type="share" class='btn' size = "mini" hover-class='btn_hover'>分享本音频</button>
        </view> 
     </view>
     <ad unit-id="adunit-94c621b6e7fd1817"></ad>

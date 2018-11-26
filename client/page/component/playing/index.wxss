@@ -27,6 +27,17 @@ border-radius: 50%;overflow: hidden;}
 .playing #playing-main{animation-play-state: running !important;}
 .playing #playing-zz image{transform: rotate(-0deg) }
 
+.btn {
+  /* width: 10%; */
+  /* height:50 px; */
+  margin-left: 70%;
+  /* margin:inherit; */
+  /* align-content: center; */
+  background-color: rgba(5, 155, 255, 0.226);
+  color: #FFF;
+  /* font-size-adjust: true; */
+}
 
-
-
+.btn::after {
+  border: 0;
+}

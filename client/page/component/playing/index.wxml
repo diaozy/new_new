@@ -13,6 +13,8 @@
     <image src="{{music.al.picUrl||music.album.picUrl}}?param=200y200"  id="pmaincover" />
     <!-- <image src="{{music.al.picUrl||music.album.picUrl}}?param=200y200" bindtap="loadlrc" id="pmaincover" /> -->
    </view>
+   <text>\n\n\n</text>
+<button open-type="share" class='btn' size = "mini" hover-class='btn_hover'>分享本音频</button>
 <!-- <ad unit-id="adunit-94c621b6e7fd1817"></ad> -->
   <template is="lrc" data="{{lrc:lrc,showlrc:showlrc,lrcindex:lrcindex}}" />
     <view id="playing-actwrap">

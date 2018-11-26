@@ -126,3 +126,22 @@
 	width: 78rpx;
 	height: 63rpx;
 }
+
+.free-btn-bordernone::after{
+  border: none;
+}
+
+.btn {
+  /* width: 10%; */
+  /* height:50 px; */
+  margin-left: 5%;
+  /* margin:inherit; */
+  /* align-content: center; */
+  background-color: rgba(5, 155, 255, 0.226);
+  color: #FFF;
+  /* font-size-adjust: true; */
+}
+
+.btn::after {
+  border: 0;
+}
