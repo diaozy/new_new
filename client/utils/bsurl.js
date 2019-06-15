@@ -1,1 +1,1 @@
-module.exports = "https://389241794.cloud100.xyz/v1/"
+module.exports = "https://susan.xihu-nttdata.top/v1/"
